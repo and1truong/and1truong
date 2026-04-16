@@ -1,0 +1,18 @@
+#!/bin/bash
+
+export ANTHROPIC_MODEL="claude-opus-4-6"
+
+NAME="ccgo-$(pwd | shasum | cut -c1-12)"
+
+if docker ps --format '{{.Names}}' | grep -qx "$NAME"; then
+  exec docker exec -it -w /workspace "$NAME" claude --dangerously-skip-permissions --allow-dangerously-skip-permissions --no-chrome "$@"
+fi
+
+exec docker run -it --rm \
+  --name "$NAME" \
+  -v ~/.claude-docker/ccgo/.claude.json:/root/.claude.json \
+  -v ~/.claude-docker/ccgo:/root/.claude \
+  -v ~/.claude-docker/bin:/root/.local/bin:ro \
+  -v ~/.gitconfig:/root/.gitconfig:ro \
+  -v "$(pwd):/workspace" \
+  ccgo "$@"
