@@ -1,6 +1,6 @@
 # Working the epics
 
-This directory holds implementation plans for **fulmar**, broken into epics and tasks. Read this before picking up or modifying any epic/task.
+This directory holds implementation plans, broken into epics and tasks. Read this before picking up or modifying any epic/task.
 
 ## What this directory is
 
