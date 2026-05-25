@@ -1,0 +1,73 @@
+/* Shared house style for docs/brainstorm/*.html
+   Base typography + components, plus the optional vertical-tab layout
+   (.layout/.tabs/.panel). Pages that don't use tabs simply ignore that block. */
+
+:root {
+  --bg: #fafaf7; --fg: #1a1a1a; --muted: #6a6a6a; --rule: #e2e0d8;
+  --accent: #b94a48; --good: #2e7d32; --warn: #b8860b; --bad: #b94a48;
+  --code-bg: #f0eee6; --link: #245a9a;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #16161a; --fg: #e8e6e0; --muted: #9a9a96; --rule: #2a2a32;
+    --code-bg: #20202a; --link: #8ab4e8;
+  }
+}
+* { box-sizing: border-box }
+html, body { margin: 0; padding: 0; background: var(--bg); color: var(--fg) }
+body {
+  font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", system-ui, sans-serif;
+  max-width: 1060px; margin: 0 auto; padding: 48px 28px 96px;
+}
+h1 { font-size: 31px; line-height: 1.2; margin: 0 0 8px; letter-spacing: -0.02em }
+h2 { font-size: 22px; margin: 56px 0 8px; letter-spacing: -0.01em; padding-bottom: 6px; border-bottom: 1px solid var(--rule) }
+h3 { font-size: 17px; margin: 30px 0 6px; letter-spacing: -0.005em }
+h4 { font-size: 13.5px; margin: 18px 0 4px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.08em }
+p, li { font-size: 15.5px }
+code { background: var(--code-bg); padding: 1px 6px; border-radius: 4px; font: 13px ui-monospace, "SF Mono", Menlo, monospace }
+pre { background: var(--code-bg); padding: 14px 16px; border-radius: 6px; overflow-x: auto; font: 12.5px/1.5 ui-monospace, "SF Mono", Menlo, monospace }
+a { color: var(--link) }
+hr { border: none; border-top: 1px solid var(--rule); margin: 56px 0 }
+.crumbs { font-size: 13px; color: var(--muted); margin: 0 0 20px }
+.crumbs a { text-decoration: none }
+.crumbs a:hover { text-decoration: underline }
+.crumbs .sep { margin: 0 7px; opacity: .55 }
+.meta { color: var(--muted); font-size: 13px; margin: 4px 0 28px }
+.wedge { border-left: 3px solid var(--accent); padding: 6px 16px; margin: 22px 0; font-size: 17px; line-height: 1.45; font-style: italic }
+table { border-collapse: collapse; width: 100%; margin: 14px 0; font-size: 14px }
+th, td { border: 1px solid var(--rule); padding: 7px 9px; text-align: left; vertical-align: top }
+th { background: var(--code-bg); font-weight: 600 }
+.tag { display: inline-block; font-size: 11px; font-weight: 700; padding: 1px 7px; border-radius: 10px; letter-spacing: 0.04em; vertical-align: 2px; margin-right: 6px }
+.tag.s { background: rgba(46,125,50,0.14); color: var(--good) }
+.tag.m { background: rgba(184,134,11,0.16); color: var(--warn) }
+.tag.l { background: rgba(185,74,72,0.14); color: var(--bad) }
+.pill { display:inline-block; font-size:11px; font-weight:700; padding:1px 8px; border-radius:10px; background:var(--code-bg); color:var(--muted); margin-left:6px }
+.toc { font-size: 14.5px; line-height: 1.85; margin: 12px 0 0 }
+.toc a { text-decoration: none }
+blockquote { margin: 14px 0; padding: 6px 16px; border-left: 2px solid var(--rule); color: var(--muted); font-size: 14.5px }
+details { margin: 12px 0; border: 1px solid var(--rule); border-radius: 6px; padding: 8px 14px }
+details summary { cursor: pointer; font-weight: 600 }
+.callout { background: rgba(184,134,11,0.06); border: 1px solid rgba(184,134,11,0.3); border-radius: 6px; padding: 10px 16px; margin: 16px 0; font-size: 14.5px }
+.danger { background: rgba(185,74,72,0.07); border: 1px solid rgba(185,74,72,0.35); border-radius: 6px; padding: 10px 16px; margin: 16px 0; font-size: 14.5px }
+.good { background: rgba(46,125,50,0.06); border: 1px solid rgba(46,125,50,0.3); border-radius: 6px; padding: 10px 16px; margin: 16px 0; font-size: 14.5px }
+ul.tight li { margin: 2px 0 }
+.asm { display:inline-block; font-size:10.5px; font-weight:700; padding:0 6px; border-radius:9px; background:rgba(36,90,154,0.14); color:var(--link); letter-spacing:0.04em; margin-left:4px; vertical-align:1px }
+.rec { font-weight: 700; color: var(--good) }
+
+/* vertical-tab layout (opt-in) */
+.layout { display: flex; gap: 36px; align-items: flex-start; margin-top: 36px }
+.tabs { position: sticky; top: 20px; flex: 0 0 234px; display: flex; flex-direction: column; gap: 1px; max-height: calc(100vh - 40px); overflow-y: auto; border-left: 1px solid var(--rule) }
+.tab { display: block; text-decoration: none; color: var(--muted); font-size: 13.5px; line-height: 1.3; padding: 7px 14px; border-left: 2px solid transparent; margin-left: -1px }
+.tab:hover { color: var(--fg); background: var(--code-bg) }
+.tab.active { color: var(--fg); font-weight: 600; border-left-color: var(--accent); background: var(--code-bg) }
+.panels { flex: 1 1 auto; min-width: 0 }
+.panel { display: none; animation: panelfade .18s ease }
+.panel.active { display: block }
+.panel > h2:first-child { margin-top: 0 }
+@keyframes panelfade { from { opacity: 0; transform: translateY(4px) } to { opacity: 1; transform: none } }
+@media (max-width: 760px) {
+  .layout { flex-direction: column; gap: 18px }
+  .tabs { position: static; flex-basis: auto; max-height: none; flex-direction: row; flex-wrap: wrap; gap: 4px; border-left: none; border-bottom: 1px solid var(--rule); padding-bottom: 10px }
+  .tab { border-left: none; border-bottom: 2px solid transparent; border-radius: 4px }
+  .tab.active { border-left-color: transparent; border-bottom-color: var(--accent) }
+}
