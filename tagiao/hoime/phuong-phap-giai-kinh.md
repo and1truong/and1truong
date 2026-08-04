@@ -1,4 +1,4 @@
-Kết Luận Có Trước Văn Bản: Phân Tích Phương Pháp Diễn Dịch Thánh Kinh Của Hội Thánh Đức Chúa Trời Mẹ
+Phân Tích Phương Pháp Diễn Dịch Thánh Kinh Của Hội Thánh Đức Chúa Trời Mẹ
 ===
 
 Các sai lầm thần học của Hội Thánh Đức Chúa Trời Mẹ (World Mission Society Church of God - WMSCOG) không tồn tại độc lập như những mảnh vỡ rời rạc. Toàn bộ hệ thống tín lý của họ — từ khái niệm "Đức Chúa Trời Mẹ", việc tôn xưng Ahn Sahng-hong, cho đến thuyết tái lâm bí mật và việc tuyệt đối hóa Lễ Vượt Qua — đều được sinh ra từ chung một khuôn mẫu giải nghĩa Kinh Thánh.
