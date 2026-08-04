@@ -1,192 +1,414 @@
 Draft
 ===
 
-[![THE MYSTERY OF GOD AND THE SPRING OF THE WATER OF LIFE](https://images.openai.com/static-rsc-4/SxgZNPoGQ_HaukQzAzBcXL4JrSpa6gQHFzXW9aoCjDPUvW2xtlig9lr5u1vMlnNjk0H_GEj161FhZdNphYLfxfqlwpbPfDitFcv3QXHYO1EiCtM2YR8xBVGP-gJEVDKAackEaSPIyhp0l9u-6CQRHDkpUwLrdPf_-dbWTDnpLhk?purpose=inline)](https://ahnsahnghong.com/en/teaching/the-mystery-of-god-and-the-spring-of-the-water-of-life/?utm_source=chatgpt.com)
+# Phần 05 — Khi “Lời Đức Chúa Trời” phải được tái bản
 
-**Bài này hoàn toàn khả thi — và có thể là phần mạnh nhất của loạt nghiên cứu.** Nó chuyển trọng tâm từ “WMSCOG giải Kinh Thánh sai” sang một câu hỏi phá vỡ hệ thống từ bên trong:
+## Mâu thuẫn nội tại trong sách của Ahn Sahng-hong và lịch sử hậu kỳ của Hội Thánh Đức Chúa Trời Hiệp Hội Truyền Giáo Tin Lành Thế Giới
 
-> **Nếu Ahn Sahng-hong là Đức Chúa Trời, tại sao lời giảng và sách của ông chứa sai lầm, mâu thuẫn và phải được người kế nhiệm sửa, cắt hoặc giải thích lại?**
+Các phần trước đã khảo sát những sai trật của Hội Thánh Đức Chúa Trời Hiệp Hội Truyền Giáo Tin Lành Thế Giới — sau đây gọi tắt là WMSCOG — về Đức Chúa Trời Mẹ, lai thế học, phương pháp giải kinh và thao túng tâm lý.
 
-## Luận đề đề xuất
+Phần này chuyển sang một phép thử khác: **phê bình hệ thống bằng chính tiền đề và tài liệu của hệ thống**.
 
-WMSCOG hiện gọi các tác phẩm của Ahn là **“Teachings of God”**, tuyên bố ông đã truyền dạy mọi chân lý cứu rỗi, đồng thời phần mở đầu của *The Mystery of God and the Spring of the Water of Life* nói người đọc sẽ công nhận sách này là “thông điệp cuối cùng từ Đức Chúa Trời”. ([그리스도 안상홍님][1])
+WMSCOG không chỉ xem Ahn Sahng-hong là một nhà cải cách hoặc giáo sư Kinh Thánh. Họ tuyên bố ông là Đấng Christ tái lâm, Đức Chúa Trời đến trong xác thịt. Vì vậy, những sai sót trong sách của ông không thể được giải thích đơn giản như sai sót của một thần học gia bình thường.
 
-Điều đó tạo ra tam nan:
+Vấn đề trở nên nghiêm trọng hơn khi những tài liệu được gán cho “Đức Chúa Trời” dường như đã được hậu thế tuyển chọn, sắp xếp lại, loại bỏ hoặc giải thích ngược với nghĩa ban đầu.
 
-1. **Bản gốc đúng:** các lời tiên đoán thất bại và giáo lý mâu thuẫn cũng phải là chân lý.
-2. **Bản tái bản đúng:** Ahn đã viết sai và hậu thế phải sửa “Đức Chúa Trời”.
-3. **Cả hai đều được giải thích là đúng:** tổ chức sử dụng tái diễn giải hậu nghiệm để làm cho mọi kết quả đều xác nhận giáo chủ.
+Câu hỏi trung tâm là:
 
-Không nhánh nào tương thích với tuyên bố Ahn là Đức Chúa Trời toàn tri và bất biến.
+> Nếu Ahn Sahng-hong thật sự là Đức Chúa Trời, tại sao tổ chức kế thừa ông phải sửa chữa, loại bỏ hoặc tái diễn giải chính những điều ông đã viết?
 
-# Các hồ sơ chính
+---
 
-## 1. Từ 38 chương xuống còn 35 chương
+## 1. Phép thử nội tại
 
-Trang của nhà xuất bản Melchizedek thuộc hệ thống WMSCOG hiện giới thiệu bản phát hành năm 2011 gồm **35 chương**. Mục lục bắt đầu bằng “Mở ấn bí mật bảy tiếng sấm” và kết thúc ở chương 35. ([멜기세덱출판사][2])
+Lập luận của bài này có thể được trình bày dưới dạng logic:
 
-Trong khi đó, bản văn được New Covenant Passover Church of God công bố là bản năm 1980 có **38 chương**, gồm thêm:
+1. WMSCOG tuyên bố Ahn Sahng-hong là Đức Chúa Trời và Đấng Christ tái lâm.
+2. WMSCOG tuyên bố sách của ông chứa chân lý cứu rỗi và những bí mật cuối cùng của Đức Chúa Trời.
+3. Đức Chúa Trời không nói dối, không tiên tri sai và không cần hậu thế sửa giáo lý của Ngài.
+4. Tuy nhiên, giữa các ấn bản và giữa giáo huấn của Ahn với giáo lý hiện nay xuất hiện những sai biệt nghiêm trọng.
+5. Do đó, ít nhất một trong ba tiền đề đầu tiên phải sai.
 
-* Chương 1: *Sự khôi phục Jerusalem và lời tiên tri 40 năm*.
-* Chương 11: *Hãy làm sáng tỏ chân lý từ các sách lịch sử hội thánh*.
-* Chương 36: *Ê-li sẽ được sai đến*.
+Đây không phải là việc dùng giáo lý của một giáo hội khác để áp đặt lên WMSCOG. Nó là phép thử tính nhất quán của WMSCOG bằng chính tuyên bố của họ.
 
-Một trang chuyên khảo đối chiếu cũng xác định đúng ba chương này không còn xuất hiện trong bản WMSCOG về sau. ([ncpcog.co.kr][3])
+---
 
-Đây là bằng chứng rất mạnh, nhưng bài chính thức cần kèm:
+## 2. Sách của Ahn không được xem là ý kiến cá nhân
 
-* Ảnh trang bản quyền của từng ấn bản.
-* Toàn bộ mục lục.
-* Ảnh đầu và cuối từng chương bị xóa.
-* ISBN, ngày in, nhà xuất bản.
-* Hash của file scan để tránh tranh cãi tài liệu đã bị chỉnh sửa.
+Trang chính thức về Ahn Sahng-hong mô tả các sách của ông là những sách viết về “chân lý cứu rỗi”, giúp người đọc nhận biết chân lý bị đóng ấn trong Kinh Thánh và nhận sự sống đời đời. Riêng cuốn *Mầu nhiệm của Đức Chúa Trời và Nguồn nước sự sống* được giới thiệu là ghi lại “mầu nhiệm cuối cùng của Đức Chúa Trời”.
 
-**Không nên chỉ dựa vào website chống WMSCOG.** Cần dùng bản scan trước năm 1985 làm chứng cứ vật lý chính; các trang phê bình chỉ đóng vai trò chỉ mục.
+Nhà xuất bản Melchizedek — đơn vị xuất bản liên hệ với WMSCOG — ghi Ahn Sahng-hong là tác giả và liệt kê ấn bản hiện hành xuất bản ngày 30 tháng 5 năm 2011.
 
-## 2. Lời tiên đoán năm 1988
+Lời tựa của sách còn tuyên bố rằng người thành tâm nghiên cứu sẽ công nhận giáo huấn trong sách là “thông điệp cuối cùng Đức Chúa Trời gửi đến”.
 
-Chương bị xóa về “40 năm” lập luận rằng Israel được thành lập năm 1948; cộng một thế hệ 40 năm sẽ đến năm 1988, rồi kết luận đó “chắc chắn” sẽ là thời điểm cuối cùng. Văn bản này đã được trích dẫn bằng tiếng Hàn trong nhiều nguồn độc lập. ([교회와신앙][4])
+Như vậy, WMSCOG không thể đồng thời nói:
 
-Điểm quan trọng không chỉ là một phép tính thất bại. **Chính chương chứa phép tính đã biến mất khỏi mục lục chính thức hiện nay.**
+* Những điều đúng trong sách chứng minh Ahn là Đức Chúa Trời;
+* Nhưng những điều sai chỉ là suy đoán cá nhân của Ahn;
+* Những đoạn phù hợp với giáo lý hiện tại là mặc khải;
+* Nhưng những đoạn không còn phù hợp có thể bị bỏ qua.
 
-Phần này có thể cấu trúc như sau:
+Đó là sử dụng hai tiêu chuẩn khác nhau để bảo vệ cùng một kết luận.
 
-> Lời tiên đoán → thời hạn trôi qua → tái diễn giải → loại bỏ chương khỏi ấn bản phổ biến.
+---
 
-Theo Phục truyền Luật lệ Ký 18:20–22, một lời tiên tri không ứng nghiệm không được cứu bằng cách sửa lại tài liệu sau biến cố. Theo SDA Belief 25, thời điểm tái lâm không được mặc khải; sự tái lâm phải hữu hình, toàn cầu và vinh hiển. ([Adventist Conference][5])
+# 3. Một cuốn sách, hai cấu trúc: 38 chương hay 35 chương?
 
-Nên phân biệt cẩn thận:
+## 3.1. Bản chính thức hiện nay có 35 chương
 
-* **“Ahn đã đặt câu hỏi về 1988”** và
-* **“Ahn đã quả quyết 1988 là cuối cùng.”**
+Mục lục do nhà xuất bản Melchizedek công bố hiện nay bắt đầu bằng chương “Khai mở bí mật của bảy tiếng sấm” và kết thúc ở chương 35, “Nguồn nước sự sống”.
 
-Bản tiếng Hàn đầy đủ phải được phân tích ngữ pháp để WMSCOG không thể phản bác rằng bản dịch đã cường điệu mức độ chắc chắn.
+Trang chính thức bằng tiếng Anh cũng mô tả nội dung tương ứng và cho rằng Ahn đã trình bày về Đức Chúa Trời Mẹ, các kỳ lễ, Ba Ngôi, linh hồn và ấn của Đức Chúa Trời trong sách này.
 
-## 3. Cuốn sách chống “Đức Chúa Trời Mẹ”
+## 3.2. Tài liệu đối lập lưu giữ cấu trúc 38 chương
 
-Năm 1983, Ahn viết tài liệu về *New Jerusalem and the Bride* để phản bác Um Soo-in, người tự nhận mình là Nàng Dâu hoặc Mẹ trên trời. Ngay cả các nguồn bênh vực WMSCOG cũng thừa nhận:
+Các kho tài liệu của nhánh kế thừa đối địch với WMSCOG và một trang nghiên cứu phê bình cho rằng bản năm 1980 có 38 chương, trong khi bản WMSCOG sau này chỉ còn 35 chương.
 
-* Ahn đã viết và phân phát cuốn sách.
-* Sau đó ông thu hồi các bản.
-* Nội dung được dùng để “đóng cửa” giáo lý Mẹ trong năm 1983.
-* Đến năm 1984, theo họ, ông lại “mở cửa” giáo lý ấy và công bố Zahng Gil-jah. ([Truth of God the Mother][6])
+Ba chương được cho là không xuất hiện trong ấn bản hiện hành gồm:
 
-Lời biện hộ này còn nghiêm trọng hơn cáo buộc ban đầu. Nó nói rằng Ahn cố ý dạy một điều không phản ánh đầy đủ chân lý nhằm xử lý một đối thủ trong nội bộ.
+| Vị trí trong bản 38 chương | Tên chương                                   |
+| -------------------------- | -------------------------------------------- |
+| Chương 1                   | Sự phục hồi Jerusalem và lời tiên tri 40 năm |
+| Chương 11                  | Hãy bày tỏ chân lý qua lịch sử giáo hội      |
+| Chương 36                  | Elijah sẽ được sai đến                       |
 
-Câu hỏi thần học:
+Trang phê bình này đối chiếu bản 38 chương năm 1980 với bản WMSCOG 35 chương và cung cấp liên kết đến tài liệu tiếng Hàn do nhánh New Covenant Passover Church of God lưu giữ.
 
-> Đức Chúa Trời có công bố một giáo lý sai hoặc gây hiểu sai trong năm 1983, thu hồi sách, rồi công bố điều ngược lại năm 1984 không?
+Tuy nhiên, cần phân loại chứng cứ chính xác:
 
-Kinh Thánh trình bày Đức Chúa Trời là Đấng không nói dối hay thay đổi tùy tình thế: Dân số Ký 23:19; Tít 1:2; Gia-cơ 1:17. Phao-lô cũng bác bỏ việc làm điều sai để đạt kết quả được xem là tốt trong Rô-ma 3:7–8.
+* **Bản hiện hành có 35 chương:** được nguồn chính thức WMSCOG xác nhận.
+* **Bản năm 1980 có 38 chương:** hiện chủ yếu được chứng minh qua nhánh kế thừa đối địch và các nguồn phê bình.
+* **WMSCOG chủ ý xóa ba chương để che giấu sai lầm:** là một kết luận cần bản scan đầy đủ và lịch sử xuất bản để chứng minh dứt khoát.
 
-Đây nên là **case study trung tâm**, vì WMSCOG không thể đơn giản phủ nhận cuốn sách tồn tại.
+Vì vậy, cách phát biểu chặt chẽ nhất ở giai đoạn hiện tại là:
 
-## 4. Sai lầm không bị xóa vẫn còn trong sách hiện hành
+> Có một sai biệt ấn bản nghiêm trọng giữa bản chính thức hiện hành 35 chương và bản 38 chương được các kho tài liệu đối lập lưu giữ. WMSCOG cần công bố lịch sử biên tập và bản đối chiếu để giải thích sai biệt này.
 
-Bài không nên chỉ nói về sửa sách. Nên chứng minh rằng nhiều sai lầm của Ahn vẫn đang được WMSCOG xuất bản như “sự dạy dỗ của Đức Chúa Trời”.
+Ngay cả khi chưa gọi đây là hành vi gian lận, sự im lặng về ba chương vẫn là vấn đề. Một tổ chức gán thẩm quyền thần thượng cho tác giả không thể xử lý tác phẩm của ông như một tài liệu quảng bá có thể âm thầm cắt gọt.
 
-### Thuyết nhất vị thay cho Ba Ngôi
+---
 
-Trang chính thức nói Ahn dạy Cha, Con và Thánh Linh “không khác nhau”, mà đều là cùng một Đức Chúa Trời Cha. Đây gần với modalism: một chủ thể lần lượt hoạt động dưới các danh khác nhau, thay vì một Đức Chúa Trời trong ba Ngôi vị đồng vĩnh cửu. ([그리스도 안상홍님][7])
+# 4. Lời tiên đoán năm 1988
 
-SDA Belief 2 khẳng định một Đức Chúa Trời gồm **Cha, Con và Thánh Linh — sự hiệp nhất của ba Ngôi vị đồng vĩnh cửu**. ([Adventist Conference][8])
+Chương “Sự phục hồi Jerusalem và lời tiên tri 40 năm” được cho là đã lập luận như sau:
 
-### Linh hồn tiền hữu
+1. Cây vả tượng trưng cho quốc gia Israel.
+2. Israel được tái lập năm 1948.
+3. Một thế hệ được tính là 40 năm.
+4. 1948 cộng 40 dẫn đến năm 1988.
+5. Do đó, năm 1988 được liên kết với thời điểm cuối cùng.
 
-Ahn dạy mọi người vốn là thiên sứ phạm tội trên trời rồi được sinh xuống đất làm người. Trang chính thức hiện vẫn công bố trực tiếp học thuyết này. ([그리스도 안상홍님][9])
+Bản văn tiếng Hàn được các nguồn phê bình sao chép kết luận rằng sau 40 năm kể từ năm 1948, “chắc chắn lúc ấy sẽ là ngày cuối cùng”.
 
-Điều này trái với nhân học SDA:
+Đây không chỉ là vấn đề một con số sai. Nó cho thấy toàn bộ chuỗi giải kinh đã được xây dựng bằng cách nối các dữ kiện không có quan hệ chú giải chắc chắn:
 
-* Con người là một hữu thể thống nhất được dựng nên.
-* Sự chết là trạng thái vô thức.
-* Con người không phải linh hồn thiên sứ tiền hữu bị nhập vào thân xác. ([Adventist Conference][5])
+* Israel hiện đại được đồng nhất tuyệt đối với cây vả.
+* “Thế hệ” bị cố định thành đúng 40 năm.
+* Ngày thành lập quốc gia Israel được chọn làm điểm khởi đầu đồng hồ tiên tri.
+* Một phép cộng lịch sử được nâng thành mặc khải lai thế.
 
-### Lễ Vượt Qua bị biến thành “ấn Đức Chúa Trời”
+Đó chính là phương pháp “lắp ghép ngược” đã được phân tích ở phần 03: lựa chọn những câu, con số và sự kiện phù hợp với kết luận đã định trước.
 
-Trang chính thức tuyên bố giữ Lễ Vượt Qua là phương cách thoát khỏi tai họa cuối cùng và chính Lễ Vượt Qua là “ấn Đức Chúa Trời”. ([그리스도 안상홍님][10])
+## 4.1. “Đó chỉ là một câu hỏi, không phải lời tiên tri”?
 
-Nhưng Khải Huyền 7 không xác định dấu ấn là một nghi thức ăn bánh và uống rượu; Khải Huyền 14 liên hệ dấu ấn với danh và đặc tính của Đức Chúa Trời, còn Ê-phê-sô 1:13 liên hệ việc đóng ấn với Đức Thánh Linh.
+Có thể biện hộ rằng Ahn chỉ đặt câu hỏi liệu năm 1988 có phải là tận thế hay không.
 
-### “Bảy tiếng sấm” bằng bảy kỳ lễ
+Nhưng phần kết được lưu truyền không dừng ở một câu hỏi mở. Nó chuyển thành một kết luận xác quyết rằng thời điểm ấy sẽ là ngày cuối cùng.
 
-Trong chính bản đang được WMSCOG xuất bản, Ahn biến bảy tiếng sấm của Khải Huyền 10 thành bảy kỳ lễ của Israel. Ông bắt đầu bằng cách thay số bảy thành “hoàn hảo”, rồi kết nối tiếng sấm tại Sinai với hệ thống lễ hội. ([그리스도 안상홍님][11])
+Nếu kết luận này có trong bản gốc, ba khả năng xuất hiện:
 
-Đây là ví dụ trực tiếp cho phương pháp giải kinh đã phân tích ở Phần 03:
+### Khả năng thứ nhất: Đây là mặc khải của Đức Chúa Trời
 
-> Liên tưởng từ vựng → biểu tượng hóa tùy ý → tuyên bố đã giải mã một bí mật chưa ai biết.
+Nếu vậy, nó đã thất bại khi năm 1988 trôi qua mà sự tận thế không xảy ra.
 
-## 5. Vấn đề tác quyền sau khi Ahn chết
+### Khả năng thứ hai: Đây chỉ là suy luận cá nhân của Ahn
 
-Nhà xuất bản hiện ghi Ahn là tác giả của nhiều sách được phát hành với ISBN mới từ 2009–2011, hàng chục năm sau khi ông qua đời. Việc tái bản tác phẩm của người đã chết tự nó không có gì bất thường. Vấn đề là tổ chức cần công khai:
+Nếu vậy, Ahn có thể giải nghĩa sai Kinh Thánh và tiên đoán sai như bất kỳ con người nào khác. Các sách của ông không thể được dùng làm bằng chứng tự xác nhận rằng ông là Đức Chúa Trời.
 
-* Đây là bản chụp nguyên văn hay bản biên tập?
-* Ai biên tập?
-* Có ghép từ bài giảng, ghi chú và sách cũ không?
-* Phần nào do Ahn viết?
-* Phần nào do ban xuất bản bổ sung?
-* Tại sao không có critical apparatus hoặc danh mục thay đổi?
+### Khả năng thứ ba: Đây là mặc khải có điều kiện hoặc được thay đổi sau đó
 
-Ví dụ, *The Law of Moses and the Law of Christ* được nhà xuất bản ghi Ahn là tác giả và phát hành năm 2009. Một nhánh kế thừa đối lập cáo buộc đây là bản biên soạn hậu kỳ chứ không phải sách Ahn từng xuất bản nguyên dạng. Hiện cáo buộc này chưa đủ chắc để dùng làm luận cứ chính nếu chưa có bản in trước năm 1985. ([멜기세덱출판사][12])
+Muốn sử dụng cách giải thích này, WMSCOG phải chứng minh từ bản văn rằng:
 
-# Điểm thần học quyết định
+* Điều kiện nào đã được công bố?
+* Điều kiện ấy được hoàn thành hay không hoàn thành thế nào?
+* Tại sao chương này không còn trong ấn bản hiện hành?
+* Tại sao không có chú thích biên tập giải thích lịch sử thay đổi?
 
-Không nên áp Khải Huyền 22:18–19 trực tiếp lên sách của Ahn như thể sách ấy là Kinh Thánh. Điều đó vô tình nâng sách Ahn lên địa vị kinh điển.
+Không thể gọi một tiên đoán là vô điều kiện trước năm 1988, rồi gọi nó là có điều kiện sau khi nó thất bại.
 
-Lập luận chính xác hơn:
+## 4.2. Phép thử theo Kinh Thánh và SDA Beliefs
 
-1. **Theo SDA**, chỉ Cựu Ước và Tân Ước là Lời thành văn có thẩm quyền tối cao. Mọi giáo lý, kinh nghiệm và người tự nhận tiên tri đều phải được Kinh Thánh kiểm nghiệm. ([Adventist Conference][8])
-2. **Theo logic của WMSCOG**, Ahn là Đức Chúa Trời và sách ông là “Teachings of God” hoặc “thông điệp cuối cùng từ Đức Chúa Trời”. ([그리스도 안상홍님][1])
-3. Vì vậy, khi tổ chức xóa hoặc sửa những phần bất tiện, họ tự đặt ban biên tập sau năm 1985 cao hơn vị “Đức Chúa Trời” mà họ tuyên xưng.
+Phục truyền Luật lệ Ký 18:20–22 không dạy tín hữu loại bỏ lời tiên tri thất bại khỏi ấn bản sau. Nó dạy dùng sự thất bại để nhận diện nguồn gốc của lời tiên tri.
 
-Đó mới là mâu thuẫn nội tại không thể thoát.
+Niềm tin căn bản số 25 của Giáo hội Cơ Đốc Phục Lâm xác định rằng sự tái lâm của Đấng Christ sẽ:
 
-# Cấu trúc bài đề xuất
+* Có thật;
+* Mang tính cá nhân;
+* Hữu hình;
+* Toàn thế giới;
+* Và thời điểm của biến cố ấy không được mặc khải.
 
-## Phần 05: Khi “Đức Chúa Trời” Phải Được Tái Bản Đính Chính
+Một phép tính dẫn đến năm 1988 vì vậy không chỉ thất bại về lịch sử. Nó trái với nguyên tắc lai thế học căn bản rằng con người không được cung cấp ngày giờ của sự tái lâm.
 
-1. **Ahn Sahng-hong có địa vị nào trong WMSCOG?**
-2. **Từ 38 chương xuống 35 chương**
-3. **Lời tiên đoán 1988 biến mất**
-4. **Cuốn sách phủ nhận Mẹ trên trời**
-5. **Lời giải thích “chân lý tạm thời đóng lại”**
-6. **Các sai lầm vẫn còn trong bản hiện hành**
+---
 
-   * Ba Ngôi.
-   * Bản chất con người.
-   * Tái lâm bí mật.
-   * Lễ Vượt Qua như dấu ấn.
-   * Bảy tiếng sấm.
-7. **Ai có quyền sửa lời của người được gọi là Đức Chúa Trời?**
-8. **Đối chiếu với SDA: sola Scriptura và phép thử tiên tri**
-9. **Kết luận: đây không phải mặc khải tiến triển mà là giáo lý hậu nghiệm**
+# 5. Cuốn sách năm 1983 và giáo lý Đức Chúa Trời Mẹ năm 1984
 
-## Tiêu đề mạnh hơn
+## 5.1. Trình tự thời gian gây vấn đề
 
-> **Phần 05 — Khi “Đức Chúa Trời” Bị Ban Biên Tập Sửa Lại**
+Một công trình đăng trên tạp chí *Nghiên cứu Tôn giáo* của Hiệp hội Nghiên cứu Tôn giáo Hàn Quốc liệt kê trong thư mục cuốn sách năm 1983 của Ahn Sahng-hong:
 
-Hoặc:
+> *New Jerusalem and the Bride: Interpretation of Women’s Veil Issue*
+> Tạm dịch: *Giải thích về Jerusalem mới, cô dâu và vấn đề khăn trùm của phụ nữ*.
 
-> **Ahn Sahng-hong Chống Lại Chính WMSCOG: Những Sách Bị Xóa, Sửa Và Tái Diễn Giải**
+Nhánh New Covenant Passover Church of God cũng ghi hai tài liệu về vấn đề cô dâu được xuất bản vào tháng 7 và ngày 20 tháng 10 năm 1983. Vì đây là một nhánh tranh chấp quyền kế thừa với WMSCOG, các diễn giải của họ phải được kiểm chứng độc lập; tuy nhiên, niên biểu xuất bản này phù hợp với tài liệu được công trình học thuật nói trên trích dẫn.
 
-## Kết luận nghiên cứu sơ bộ
+Trong khi đó, lịch sử chính thức của WMSCOG tuyên bố Ahn Sahng-hong đã công bố Đức Chúa Trời Mẹ trong lễ Vượt Qua cuối cùng của ông vào năm 1984.
 
-**Có đủ vật liệu để viết một bài rất mạnh.** Ba trục đã có chứng cứ đáng kể:
+Trang chính thức còn nói rằng Ahn đã dự báo về một “Đấng Cứu Rỗi khác” từ năm 1955, đề cập đến cô dâu trong sách năm 1980 và cuối cùng tiết lộ Đức Chúa Trời Mẹ ngày 15 tháng 4 năm 1984.
 
-* Bản 38 chương và bản chính thức 35 chương.
-* Lời tiên đoán 1988 nằm trong chương bị loại.
-* WMSCOG tự thừa nhận cuốn sách năm 1983 chống lại một người tự xưng Mẹ, rồi giải thích rằng Ahn cố ý thu hồi nó và thay đổi cách công bố giáo lý.
+Như vậy, trình tự cần được giải thích là:
 
-Điểm còn thiếu trước khi viết bản hoàn chỉnh là **xác thực tài liệu sơ cấp**: scan đầy đủ các ấn bản trước năm 1985, bản quyền, mục lục, trang bị sửa và bản dịch sát tiếng Hàn. Khi hoàn tất lớp chứng cứ này, bài sẽ không còn phụ thuộc vào lời kể của cựu thành viên hay nguồn chống đối; **chính sách của Ahn và ấn bản của WMSCOG sẽ làm chứng chống lại hệ thống ấy**.
+* **1983:** Ahn xuất bản sách về Jerusalem mới, cô dâu và vấn đề phụ nữ.
+* **1984:** WMSCOG tuyên bố Ahn công bố một phụ nữ cụ thể là Đức Chúa Trời Mẹ.
+* **1985:** Ahn qua đời; giáo lý Đức Chúa Trời Mẹ trở thành trung tâm của tổ chức kế thừa.
 
-[1]: https://ahnsahnghong.com/en/teaching/great-legacy/?utm_source=chatgpt.com "Great Legacy - Christ Ahnsahnghong"
-[2]: https://melchizedek.co.kr/mystery-of-god/ "하나님의 비밀과 생명수의 샘 - 멜기세덱출판사"
-[3]: https://www.ncpcog.co.kr/?bid=0604&m=bbs&uid=266&utm_source=chatgpt.com "새언약 유월절 하나님의 교회"
-[4]: https://www.amennews.com/news/articleView.html?idxno=12476&utm_source=chatgpt.com "하나님의교회 안상홍 교주의 시한부종말론"
-[5]: https://gc.adventist.org/beliefs/?utm_source=chatgpt.com "What do Seventh-day Adventists Believe?"
-[6]: https://www.truthofgodthemother.com/christ-ahnsahnghong-said-new-jerusalem-is-an-actual-place-truth-of-heavenly-mother-jerusalem/ "Did Christ Ahnsahnghong Deny Heavenly Mother Jerusalem?"
-[7]: https://ahnsahnghong.com/en/teaching/explanations-of-the-trinity/?utm_source=chatgpt.com "EXPLANATIONS OF THE TRINITY GOD THE FATHER ..."
-[8]: https://gc.adventist.org/wp-content/uploads/2025/10/Seventh-day_Adventist_Church_Manual-2025-10-13.pdf?utm_source=chatgpt.com "2022 Seventh-day Adventist Church Manual"
-[9]: https://ahnsahnghong.com/en/teaching/visitors-from-the-angelic-world/?utm_source=chatgpt.com "VISITORS FROM THE ANGELIC WORLD"
-[10]: https://ahnsahnghong.com/en/teaching/the-last-plagues-and-the-seal-of-god/?utm_source=chatgpt.com "THE LAST PLAGUES AND THE SEAL OF GOD"
-[11]: https://ahnsahnghong.com/en/teaching/the-mystery-of-god-and-the-spring-of-the-water-of-life/ "THE MYSTERY OF GOD AND THE SPRING OF THE WATER OF LIFE"
-[12]: https://melchizedek.co.kr/law-of-christ/?utm_source=chatgpt.com "모세의 율법과 그리스도의 율법 - 멜기세덱출판사"
+## 5.2. Nhận định của nghiên cứu học thuật
+
+Nghiên cứu năm 2018 về những nữ lãnh đạo kế thừa các nhà sáng lập nam nhận định rằng trong trường hợp WMSCOG, giáo lý đã được thay đổi theo hướng nhấn mạnh một nữ thần tính mà người sáng lập “đã phủ nhận hoặc không chủ trương”.
+
+Đây là nhận định học thuật, không tự động thay thế việc kiểm tra từng trang trong sách năm 1983. Tuy nhiên, nó cho thấy mâu thuẫn này không chỉ xuất phát từ các trang “chống tà giáo”, mà đã được nhận diện trong nghiên cứu tôn giáo học.
+
+## 5.3. Ba khả năng không thể đồng thời đúng
+
+### Khả năng A: Sách năm 1983 thật sự phủ nhận việc đồng nhất cô dâu với một phụ nữ thần thượng
+
+Nếu vậy, giáo lý Đức Chúa Trời Mẹ hiện nay chống lại giáo huấn cuối đời của chính Ahn.
+
+### Khả năng B: Ahn thay đổi giáo lý vào năm 1984
+
+Nếu vậy, một người được tuyên bố là Đức Chúa Trời đã xuất bản giáo huấn sai hoặc không đầy đủ chỉ vài tháng trước khi công bố điều ngược lại.
+
+Sự thay đổi ấy cần được trình bày công khai như một sự sửa đổi, không thể được kể lại như thể toàn bộ giáo lý đã hoàn toàn nhất quán từ đầu.
+
+### Khả năng C: Sách năm 1983 chỉ chống một người giả mạo, không chống khái niệm Đức Chúa Trời Mẹ
+
+Đây là lời biện hộ mạnh nhất có thể đưa ra.
+
+Nhưng để chứng minh, WMSCOG cần công bố:
+
+1. Bản scan đầy đủ của sách năm 1983;
+2. Những đoạn xác định rõ đối tượng bị phản bác;
+3. Những đoạn khẳng định vẫn tồn tại một Đức Chúa Trời Mẹ bằng xương bằng thịt;
+4. Cầu nối giải kinh giữa lập trường năm 1983 và sự công bố năm 1984;
+5. Lịch sử xuất bản không bị chỉnh sửa hậu kỳ.
+
+Việc chỉ tuyên bố rằng Ahn “luôn dạy về Mẹ” không giải quyết được những câu chữ cụ thể trong tài liệu năm 1983.
+
+---
+
+# 6. Những sai trật còn tồn tại trong chính các sách hiện hành
+
+Ngay cả khi tạm gác lại ba chương bị nghi là đã loại bỏ, những sách WMSCOG đang chính thức phổ biến vẫn chứa các giáo lý mâu thuẫn với Kinh Thánh và SDA Beliefs.
+
+## 6.1. Ba Ngôi bị thu gọn thành một nhân vật mang ba vai trò
+
+Trang chính thức tóm tắt giáo huấn của Ahn như sau:
+
+> Đức Cha, Đức Con và Đức Thánh Linh “không khác nhau”, nhưng là cùng một Đức Chúa Trời Cha.
+
+Cách diễn đạt này không chỉ khẳng định một Đức Chúa Trời. Nó xóa nhòa sự phân biệt ngôi vị giữa Đức Cha, Đức Con và Đức Thánh Linh, mang cấu trúc của nhất vị luận hình thái: một nhân vật xuất hiện dưới các danh xưng hoặc vai trò khác nhau.
+
+Ngược lại, SDA Fundamental Belief số 2 tuyên xưng một Đức Chúa Trời là sự hiệp nhất của **ba Ngôi vị đồng đời đời**: Đức Cha, Đức Con và Đức Thánh Linh.
+
+Kinh Thánh vừa khẳng định Đức Chúa Trời là một, vừa phân biệt:
+
+* Đức Con cầu nguyện với Đức Cha;
+* Đức Cha sai Đức Con;
+* Đức Cha và Đức Con sai Đức Thánh Linh;
+* Cả ba đồng thời xuất hiện trong phép báp-têm của Đức Chúa Jesus.
+
+Vì vậy, dùng một con người Hàn Quốc làm hiện thân kế tiếp của “vai trò Đức Thánh Linh” không phải là hệ quả của giáo lý Ba Ngôi. Đó là thay thế Ba Ngôi bằng một chuỗi hiện thân lịch sử.
+
+## 6.2. Con người được cho là các thiên sứ tiền hữu
+
+Sách *Những vị khách đến từ thế giới thiên sứ* được trang chính thức tóm tắt như sau:
+
+* Loài người vốn là các thiên sứ sống trong vinh hiển trên trời;
+* Họ phạm tội nghiêm trọng;
+* Họ bị sinh xuống trái đất trong hình hài con người;
+* Linh hồn tiếp tục tồn tại sau khi thân thể chết.
+
+Đây là một hệ thống tiền hữu linh hồn gần với thuyết linh hồn sa ngã hơn là nhân học Kinh Thánh.
+
+Sáng thế Ký 2:7 không nói Đức Chúa Trời đặt một thiên sứ có sẵn vào thân thể Adam. Con người **trở nên** một sinh linh khi bụi đất kết hợp với hơi thở sự sống.
+
+SDA Fundamental Belief số 7 mô tả con người là một thể thống nhất không thể phân chia của thân thể, trí tuệ và tinh thần. Fundamental Belief số 26 xác định rằng sự chết là trạng thái vô thức cho đến sự phục sinh.
+
+Như vậy, thần học linh hồn của Ahn không phải là “bí mật cuối cùng” được phục hồi từ Kinh Thánh. Nó trực tiếp đối nghịch với cấu trúc nhân học toàn thể của Kinh Thánh.
+
+## 6.3. Lễ Vượt Qua trở thành “ấn” độc quyền của tổ chức
+
+WMSCOG chính thức dạy rằng Lễ Vượt Qua là ấn của Đức Chúa Trời và người giữ lễ sẽ được bảo vệ khỏi các tai họa cuối cùng.
+
+Vấn đề không nằm ở việc tưởng niệm Tiệc Thánh hoặc nghiên cứu ý nghĩa Lễ Vượt Qua. Vấn đề xuất hiện khi:
+
+1. Một nghi thức được đồng nhất trực tiếp với ấn cứu rỗi;
+2. Tổ chức tuyên bố mình là nơi duy nhất phục hồi nghi thức đúng;
+3. Sự an toàn trong thời kỳ cuối cùng bị buộc vào việc tham dự nghi lễ của tổ chức;
+4. Không tham dự được trình bày như từ chối phương tiện cứu rỗi.
+
+Khi ấy, đức tin nơi Đấng Christ bị chuyển thành sự lệ thuộc vào cơ chế nghi lễ và thẩm quyền của tổ chức.
+
+---
+
+# 7. Thế tiến thoái lưỡng nan của việc tái bản
+
+WMSCOG phải chọn một trong ba mô hình thẩm quyền.
+
+## Mô hình 1: Bản gốc của Ahn là thẩm quyền
+
+Nếu bản gốc có lời tiên đoán năm 1988, những chương không còn được phổ biến và giáo huấn chống lại sự thần hóa một phụ nữ, các nội dung ấy phải được giữ nguyên và giải thích công khai.
+
+Khi ấy, những sai lầm và mâu thuẫn của Ahn trở thành bằng chứng chống lại tuyên bố rằng ông là Đức Chúa Trời.
+
+## Mô hình 2: Bản hậu kỳ của tổ chức là thẩm quyền
+
+Nếu ban lãnh đạo có quyền bỏ chương, thay nội dung và quyết định giáo huấn nào của Ahn còn hiệu lực, thẩm quyền tối hậu không còn thuộc về Ahn.
+
+Nó thuộc về ban biên tập và giới lãnh đạo sau năm 1985.
+
+Khi ấy, tổ chức không thật sự phục tùng “Đức Chúa Trời Ahn”. Tổ chức đang kiến tạo một phiên bản Ahn phù hợp với giáo lý hiện tại.
+
+## Mô hình 3: Cả hai đều đúng nhờ “mặc khải tiến triển”
+
+Mô hình này cho phép mọi mâu thuẫn được giải thích sau sự kiện:
+
+* Tiên đoán không thành trở thành lời cảnh báo;
+* Phủ nhận trở thành chuẩn bị;
+* Im lặng trở thành bí mật;
+* Thay đổi giáo lý trở thành mặc khải mới;
+* Chương biến mất trở thành biên tập thông thường.
+
+Một hệ thống có thể giải thích mọi kết quả, kể cả kết quả trái ngược, là một hệ thống không thể bị kiểm chứng.
+
+Đó là **hệ thống tự niêm phong**: mọi bằng chứng chống lại giáo lý đều được biến thành bằng chứng ủng hộ giáo lý.
+
+---
+
+# 8. Tiêu chuẩn SDA: Kinh Thánh đứng trên mọi người và mọi tổ chức
+
+SDA Fundamental Belief số 1 xác định Kinh Thánh là sự mặc khải tối cao, có thẩm quyền và là tiêu chuẩn cuối cùng để kiểm tra giáo lý cũng như kinh nghiệm tôn giáo.
+
+Ngay cả trong cách hiểu của Cơ Đốc Phục Lâm về ân tứ tiên tri, Kinh Thánh vẫn là tiêu chuẩn dùng để thử nghiệm mọi giáo huấn và kinh nghiệm.
+
+Do đó:
+
+* Ellen G. White không thay thế Kinh Thánh;
+* Một hội nghị giáo hội không thay thế Kinh Thánh;
+* Một người tự nhận là Đấng Christ không được miễn khỏi phép thử của Kinh Thánh;
+* Một tổ chức không thể sửa tài liệu lịch sử rồi dùng bản đã sửa để chứng minh người sáng lập luôn đúng.
+
+Theo nguyên tắc SDA, câu hỏi không phải là:
+
+> “Ahn giải thích Kinh Thánh thế nào?”
+
+Câu hỏi đúng phải là:
+
+> “Kinh Thánh có thật sự dạy điều Ahn tuyên bố hay không?”
+
+Khi Kinh Thánh và Ahn bất đồng, Ahn phải bị bác bỏ. Không được sửa cách đọc Kinh Thánh để bảo vệ Ahn.
+
+---
+
+# 9. Kết luận
+
+Vấn đề không phải là mọi lần tái bản đều sai.
+
+Nhà xuất bản có thể sửa:
+
+* Lỗi chính tả;
+* Lỗi đánh máy;
+* Cách trình bày;
+* Bản dịch không chính xác;
+* Tham chiếu sai số câu.
+
+Nhưng việc loại bỏ toàn bộ chương, che khuất một phép tính tận thế hoặc tái diễn giải giáo lý về một nhân vật được thần hóa không phải là sửa lỗi kỹ thuật.
+
+Đó là vấn đề thẩm quyền thần học.
+
+Nếu Ahn Sahng-hong là Đức Chúa Trời:
+
+* Ông không thể tiên đoán sai;
+* Không thể dạy sai về bản thể Đức Chúa Trời;
+* Không thể dạy sai về bản chất con người;
+* Không thể cần hậu thế sửa lại sách của mình;
+* Không thể vừa chống một giáo lý năm 1983 vừa công bố chính giáo lý ấy năm 1984 mà không có lời giải thích minh bạch.
+
+Nếu các sách của Ahn cần được chọn lọc để loại bỏ phần sai, điều hợp lý nhất không phải là kết luận ban biên tập được Đức Chúa Trời hướng dẫn.
+
+Kết luận đơn giản hơn là:
+
+> Ahn Sahng-hong là một nhà lãnh đạo tôn giáo có những suy luận, thay đổi và sai lầm như con người; sau khi ông qua đời, tổ chức kế thừa đã xây dựng lại di sản của ông để phục vụ một hệ thống thần học mới.
+
+Điểm yếu nguy hiểm nhất của WMSCOG vì vậy không chỉ nằm trong từng giáo lý riêng lẻ.
+
+Nó nằm trong chính cơ chế sản xuất chân lý:
+
+1. Ahn được dùng để xác nhận tổ chức;
+2. Tổ chức quyết định Ahn thật sự đã dạy gì;
+3. Bản văn được chọn lọc để phù hợp với quyết định của tổ chức;
+4. Bản văn đã chọn lọc lại được dùng để chứng minh tổ chức đúng.
+
+Đó là một vòng lặp tự xác nhận, không phải phương pháp tìm kiếm chân lý.
+
+---
+
+# Phụ lục — Mức độ chắc chắn của chứng cứ
+
+## Chứng cứ đã được xác nhận mạnh
+
+* WMSCOG xem Ahn là Đấng Christ tái lâm.
+* WMSCOG xem sách của Ahn là sách về chân lý cứu rỗi.
+* Nhà xuất bản chính thức hiện phổ biến bản 35 chương.
+* Sách năm 1983 về Jerusalem mới, cô dâu và vấn đề khăn trùm có tồn tại.
+* WMSCOG tuyên bố Ahn công bố Đức Chúa Trời Mẹ năm 1984.
+* Sách hiện hành dạy thuyết linh hồn tiền hữu và cách hiểu Ba Ngôi xóa nhòa sự phân biệt ngôi vị.
+
+## Chứng cứ cần củng cố trước khi cáo buộc gian lận văn bản
+
+* Bản scan hoàn chỉnh ấn bản năm 1980 có 38 chương;
+* Trang bìa, trang xuất bản và mục lục nguyên bản;
+* Bản scan ba chương không còn trong ấn bản hiện hành;
+* Bản scan đầy đủ cuốn sách năm 1983;
+* Bảng đối chiếu từng câu giữa các ấn bản;
+* Tuyên bố chính thức của nhà xuất bản về lý do thay đổi.
+
+## Hồ sơ nên xây dựng
+
+1. Thu thập bản scan 1980, 2007 và 2011.
+2. Lưu mã SHA-256 cho từng tệp để bảo vệ tính toàn vẹn.
+3. Đối chiếu nguyên văn tiếng Hàn trước khi dùng bản dịch.
+4. Đánh dấu nội dung bị bỏ, thêm hoặc thay đổi.
+5. Phân biệt rõ sửa lỗi ngôn ngữ với sửa đổi giáo lý.
+6. Gửi yêu cầu giải trình bằng văn bản cho nhà xuất bản Melchizedek.
+7. Công bố cả câu trả lời của WMSCOG, không chỉ chứng cứ chống lại họ.
+
+Ở trạng thái chứng cứ hiện nay, kết luận thận trọng nhưng đủ mạnh là:
+
+> WMSCOG đang đối diện với một sai biệt ấn bản chưa được giải thích và một lịch sử phát triển giáo lý không tương thích với tuyên bố rằng Ahn Sahng-hong là Đức Chúa Trời bất biến. Gánh nặng chứng minh thuộc về tổ chức đưa ra tuyên bố thần thượng ấy.
+
+## Tham khảo
+
+- https://ahnsahnghong.com/en/teaching/great-legacy/?utm_source=chatgpt.com "Great Legacy - Christ Ahnsahnghong"
+- https://melchizedek.co.kr/mystery-of-god/ "하나님의 비밀과 생명수의 샘 - 멜기세덱출판사"
+- https://www.ncpcog.co.kr/?bid=0604&m=bbs&uid=266&utm_source=chatgpt.com "새언약 유월절 하나님의 교회"
+- https://www.amennews.com/news/articleView.html?idxno=12476&utm_source=chatgpt.com "하나님의교회 안상홍 교주의 시한부종말론"
+- https://gc.adventist.org/beliefs/?utm_source=chatgpt.com "What do Seventh-day Adventists Believe?"
+- https://www.truthofgodthemother.com/christ-ahnsahnghong-said-new-jerusalem-is-an-actual-place-truth-of-heavenly-mother-jerusalem/ "Did Christ Ahnsahnghong Deny Heavenly Mother Jerusalem?"
+- https://ahnsahnghong.com/en/teaching/explanations-of-the-trinity/?utm_source=chatgpt.com "EXPLANATIONS OF THE TRINITY GOD THE FATHER ..."
+- https://gc.adventist.org/wp-content/uploads/2025/10/Seventh-day_Adventist_Church_Manual-2025-10-13.pdf?utm_source=chatgpt.com "2022 Seventh-day Adventist Church Manual"
+- https://ahnsahnghong.com/en/teaching/visitors-from-the-angelic-world/?utm_source=chatgpt.com "VISITORS FROM THE ANGELIC WORLD"
+- https://ahnsahnghong.com/en/teaching/the-last-plagues-and-the-seal-of-god/?utm_source=chatgpt.com "THE LAST PLAGUES AND THE SEAL OF GOD"
+- https://ahnsahnghong.com/en/teaching/the-mystery-of-god-and-the-spring-of-the-water-of-life/ "THE MYSTERY OF GOD AND THE SPRING OF THE WATER OF LIFE"
+- https://melchizedek.co.kr/law-of-christ/?utm_source=chatgpt.com "모세의 율법과 그리스도의 율법 - 멜기세덱출판사"
