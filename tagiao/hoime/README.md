@@ -6,3 +6,4 @@ Tìm Hiểu Hội Chúa Mẹ
 3. [Phân Tích Lai Thế Học: Vì Sao Ahn Sahng-hong Không Thể Là Đấng Christ Tái Lâm](./tailam.md)
 4. [Lời Chứng Cựu Thành Viên Và Cơ Chế Thao Túng Tâm Lý Của Hội Thánh Đức Chúa Trời Mẹ](./thao-tung-tam-ly.md)
 5. [Khi "Lời Đức Chúa Trời" Phải Được Viết Lại](./mau-thuan-noi-tai.md)
+6. [Một Tin Lành Khác](./phan06-tinlanh-khac.md)
