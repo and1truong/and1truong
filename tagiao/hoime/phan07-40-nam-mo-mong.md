@@ -3,7 +3,7 @@ Phần 07: 40 Năm Mơ Mộng
 
 ## Vì Sao “3 Năm + 37 Năm” Không Chứng Minh Ahn Sahng-hong Là Đấng Christ Tái Lâm
 
-Hội Thánh Đức Chúa Trời Hiệp Hội Truyền Giáo Thế Giới (Hội Chúa Mẹ) biến 40 năm trị vì của vua Đa-vít thành một thời hạn tiên tri dành cho Đấng Christ. Họ cho rằng Đức Chúa Jê-sus chỉ thi hành ba năm, nên phải tái lâm trong xác thịt để hoàn tất 37 năm còn thiếu. Sau đó, vì Ahn Sahng-hong hoạt động từ năm 1948 đến năm 1985, họ kết luận ông chính là Đấng Christ tái lâm. Nhưng Kinh Thánh không hề thiết lập phép tính ấy. Nó chỉ xuất hiện khi người ta biến lịch sử thành lời tiên tri, đổi “trị vì” thành “giảng đạo”, đổi phép báp-têm thành lễ đăng quang và dùng tiểu sử Ahn Sahng-hong để quyết định bản văn phải có nghĩa gì.
+Hội Thánh Đức Chúa Trời Hiệp Hội Truyền Giáo Thế Giới (WMSCOG, Hội Chúa Mẹ) biến 40 năm trị vì của vua Đa-vít thành một thời hạn tiên tri dành cho Đấng Christ. Họ cho rằng Đức Chúa Jê-sus chỉ thi hành ba năm, nên phải tái lâm trong xác thịt để hoàn tất 37 năm còn thiếu. Sau đó, vì Ahn Sahng-hong hoạt động từ năm 1948 đến năm 1985, họ kết luận ông chính là Đấng Christ tái lâm. Nhưng Kinh Thánh không hề thiết lập phép tính ấy. Nó chỉ xuất hiện khi người ta biến lịch sử thành lời tiên tri, đổi “trị vì” thành “giảng đạo”, đổi phép báp-têm thành lễ đăng quang và dùng tiểu sử Ahn Sahng-hong để quyết định bản văn phải có nghĩa gì.
 
 ---
 
@@ -746,7 +746,7 @@ Lập luận này thất bại vì:
 * cấu trúc bảy năm sáu tháng cộng 33 năm bị Hội bỏ qua;
 * tiểu sử Ahn được dùng để dựng ra “lời tiên tri” vốn được tuyên bố là bằng chứng cho chính ông.
 
-Kết luận:
+## Kết luận:
 
-> **Phép tính 3 + 37 không phải một lời tiên tri về Ahn Sahng-hong. Nó là một phép giải nghĩa hồi tố được thiết kế để vừa với tiểu sử của ông.**
+Phép tính 3 + 37 không phải một lời tiên tri về Ahn Sahng-hong. Nó là một phép giải nghĩa hồi tố được thiết kế để vừa với tiểu sử của ông.
 
