@@ -1,4 +1,4 @@
-40 Năm Mơ Mộng
+Phần 07: 40 Năm Mơ Mộng
 ===
 
 ## Vì Sao “3 Năm + 37 Năm” Không Chứng Minh Ahn Sahng-hong Là Đấng Christ Tái Lâm
