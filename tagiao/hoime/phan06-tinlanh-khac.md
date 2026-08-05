@@ -1,429 +1,658 @@
-(prompt)
-
-Tôi đang viết một series nghiên cứu phê bình về **Hội Thánh của Đức Chúa Trời Hiệp hội Truyền giáo Tin Lành Thế giới** — World Mission Society Church of God, viết tắt **WMSCOG**, thường được gọi tại Việt Nam là **Hội Đức Chúa Trời Mẹ** hoặc **Hội Chúa Mẹ**.
-
-## Nhiệm vụ
-
-Hãy nghiên cứu và viết **Bài 06** của series với chủ đề:
-
 # Một Tin Lành Khác: Khi Sự Cứu Rỗi Bị Trói Vào Tổ Chức Và Nghi Lễ
 
-Câu hỏi trung tâm:
+> **WMSCOG không công khai phủ nhận ân điển hay thập tự giá. Nhưng khi các giáo lý của họ được ghép lại, ân điển chỉ còn được tiếp cận qua một chuỗi điều kiện: nhận đúng “Đấng Christ tái lâm”, nhận đúng “Đức Chúa Trời Mẹ”, chịu đúng phép báp-têm, dự đúng Lễ Vượt Qua, giữ đúng các kỳ lễ và bước vào đúng “Si-ôn”. Khi chính tổ chức có quyền định nghĩa, thực hiện và xác nhận mọi điều kiện ấy, tổ chức đã trở thành người giữ cổng của sự cứu rỗi.**
 
-> WMSCOG đã thay thế Tin Lành cứu rỗi bởi ân điển trong Đức Chúa Jesus Christ bằng một hệ thống cứu rỗi phụ thuộc vào nghi lễ, tri thức bí truyền và tư cách thành viên trong tổ chức như thế nào?
+---
 
-Bài viết cần chứng minh rằng vấn đề của WMSCOG không chỉ nằm ở một vài giáo lý sai riêng lẻ. Các giáo lý ấy kết hợp thành một **hệ thống cứu rỗi khép kín**, trong đó một người chỉ được xem là có hy vọng cứu rỗi khi:
+Một hệ thống tôn giáo không cần tuyên bố: **“Chúng tôi cứu bạn.”**
 
-* Công nhận Ahn Sahng-hong là Đấng Christ tái lâm và “Đức Chúa Trời Thánh Linh”.
-* Công nhận Jang Gil-ja là “Đức Chúa Trời Mẹ”.
-* Chịu phép báp-têm theo hệ thống danh xưng của WMSCOG.
-* Giữ ngày Sa-bát theo cách tổ chức quy định.
-* Giữ Lễ Vượt Qua giao ước mới.
-* Giữ các kỳ lễ hằng năm.
-* Gia nhập “Si-ôn”, nhưng “Si-ôn” lại được đồng nhất với chính WMSCOG.
-* Tiếp tục vâng phục sự giảng dạy và thẩm quyền của tổ chức.
+Nó chỉ cần thuyết phục bạn rằng huyết Đấng Christ chưa đem lại sự tha tội nếu bạn chưa dự đúng nghi lễ; đức tin nơi Đức Chúa Jê-sus chưa đủ nếu bạn chưa biết “danh mới”; bạn không thể nhận sự sống đời đời nếu chưa đến với “Đức Chúa Trời Mẹ”; và bạn không thể đến nơi ban sự cứu rỗi nếu chưa bước vào “Si-ôn” — trong khi “Si-ôn” lại được đồng nhất với chính tổ chức ấy.
 
-Luận đề cần kiểm tra:
+Khi đó, tổ chức không còn chỉ **rao giảng** con đường cứu rỗi. Nó đã đặt chính mình **ở bên trong** con đường ấy.
 
-> WMSCOG không công khai phủ nhận ân điển. Tuy nhiên, họ tái định nghĩa phương tiện tiếp nhận ân điển theo cách khiến sự cứu rỗi trên thực tế phụ thuộc vào việc nhận biết đúng các nhân vật, thực hiện đúng nghi lễ và thuộc về đúng tổ chức. Kết quả là Đấng Christ không còn là Đấng Trung Bảo đầy đủ; tổ chức trở thành người kiểm soát con đường cứu rỗi.
+Năm phần trước đã khảo sát WMSCOG từ các hướng khác nhau: [tín lý tổng quát](./phantich-01.md), [lai thế học](./tailam.md), [phương pháp giải kinh](./phuong-phap-giai-kinh.md), [thao túng tâm lý](./thao-tung-tam-ly.md) và [mâu thuẫn trong di sản Ahn Sahng-hong](./mau-thuan-noi-tai.md). Bài này ghép các mảnh ấy lại để trả lời một câu hỏi trung tâm:
 
-## Bối cảnh của series
+> WMSCOG đã thay thế Tin Lành cứu rỗi bởi ân điển trong Đức Chúa Jê-sus Christ bằng một hệ thống cứu rỗi phụ thuộc vào nghi lễ, tri thức bí truyền và quyền xác nhận của tổ chức như thế nào?
 
-Đọc kỹ năm bài đã có để:
+---
 
-* Không lặp lại nội dung cũ.
-* Kế thừa các phát hiện và phương pháp lập luận trước đó.
-* Giữ cùng văn phong, thuật ngữ và lập trường thần học.
-* Dẫn liên kết nội bộ đến các bài trước khi thích hợp.
+## Mục lục
 
-Series:
+1. [Phạm vi và luận đề](#1-phạm-vi-và-luận-đề)
+2. [Tin Lành theo WMSCOG là gì?](#2-tin-lành-theo-wmscog-là-gì)
+3. [Bản đồ các điều kiện cứu rỗi](#3-bản-đồ-các-điều-kiện-cứu-rỗi)
+4. [Ahn Sahng-hong và “danh mới”](#4-ahn-sahng-hong-và-danh-mới)
+5. [“Đức Chúa Trời Mẹ” và nguồn sự sống](#5-đức-chúa-trời-mẹ-và-nguồn-sự-sống)
+6. [Báp-têm như cổng vào hệ thống](#6-báp-têm-như-cổng-vào-hệ-thống)
+7. [Lễ Vượt Qua và độc quyền bí lễ](#7-lễ-vượt-qua-và-độc-quyền-bí-lễ)
+8. [Sa-bát, các kỳ lễ và sự cứu rỗi](#8-sa-bát-các-kỳ-lễ-và-sự-cứu-rỗi)
+9. [“Si-ôn” bị đồng nhất với tổ chức](#9-si-ôn-bị-đồng-nhất-với-tổ-chức)
+10. [Tin Lành của các sứ đồ](#10-tin-lành-của-các-sứ-đồ)
+11. [Vâng phục không phải giá mua sự cứu rỗi](#11-vâng-phục-không-phải-giá-mua-sự-cứu-rỗi)
+12. [Các bài kiểm tra logic](#12-các-bài-kiểm-tra-logic)
+13. [Vì sao đây là “một Tin Lành khác”?](#13-vì-sao-đây-là-một-tin-lành-khác)
+14. [Kết luận](#14-kết-luận)
+15. [Tóm tắt dành cho người đọc nhanh](#15-tóm-tắt-dành-cho-người-đọc-nhanh)
+16. [Tài liệu tham khảo](#16-tài-liệu-tham-khảo)
 
-1. README và danh sách bài:
-   https://github.com/and1truong/and1truong/blob/learn-bible/tagiao/hoime/README.md
+---
 
-2. Bài 01 — Phân tích tổng quát:
-   https://raw.githubusercontent.com/and1truong/and1truong/refs/heads/learn-bible/tagiao/hoime/phantich-01.md
+## 1. Phạm vi và luận đề
 
-3. Bài 02 — Sai trật về lai thế học:
-   https://raw.githubusercontent.com/and1truong/and1truong/refs/heads/learn-bible/tagiao/hoime/tailam.md
+Bài viết này dựng lại cứu rỗi học WMSCOG từ chính các nguồn chính thức của họ. Nó không dựa vào tin đồn và cũng không xem mọi nghi lễ là sai.
 
-4. Bài 03 — Sai trật về phương pháp giải kinh:
-   https://raw.githubusercontent.com/and1truong/and1truong/refs/heads/learn-bible/tagiao/hoime/phuong-phap-giai-kinh.md
+WMSCOG vẫn nói về đức tin, ân điển, huyết Đấng Christ và thập tự giá. Vì vậy, phê bình chính xác không phải: “Họ phủ nhận hoàn toàn ân điển” hay “họ dạy con người tự kiếm công đức.”
 
-5. Bài 04 — Thao túng tâm lý:
-   https://raw.githubusercontent.com/and1truong/and1truong/refs/heads/learn-bible/tagiao/hoime/thao-tung-tam-ly.md
+Vấn đề nằm ở cấp độ hệ thống:
 
-6. Bài 05 — Mâu thuẫn nội tại và việc sửa đổi sách:
-   https://raw.githubusercontent.com/and1truong/and1truong/refs/heads/learn-bible/tagiao/hoime/mau-thuan-noi-tai.md
+1. điều gì được xem là bắt buộc để được cứu;
+2. ai giải thích điều kiện ấy;
+3. ai thực hiện nghi lễ hợp lệ;
+4. ai xác nhận một người đã làm đúng;
+5. có con đường nào đến với Đấng Christ mà không đi qua WMSCOG hay không.
 
-## Góc nhìn thần học
+Luận đề cần kiểm tra là:
 
-Tác giả đứng trên nền tảng thần học của **Seventh-day Adventist Church — SDA**.
+> WMSCOG tái định nghĩa phương tiện tiếp nhận ân điển theo cách khiến sự cứu rỗi trên thực tế phụ thuộc vào việc nhận biết đúng các nhân vật, thực hiện đúng nghi lễ và bước vào đúng tổ chức. Đấng Christ vẫn được nhắc đến, nhưng tổ chức kiểm soát cách con người được phép tiếp cận công việc cứu rỗi của Ngài.
 
-Cần phân biệt rõ:
+---
 
-* Bài viết không phản đối ngày Sa-bát.
-* Không được lập luận rằng giữ Sa-bát tự nó là tà giáo.
-* Không dùng Cô-lô-se 2:16 hoặc Rô-ma 14 một cách đơn giản để phủ nhận điều răn thứ tư.
-* Không đồng nhất SDA với WMSCOG chỉ vì cả hai đều giữ ngày thứ bảy.
-* Không bảo vệ quan niệm “đã được cứu thì không cần vâng phục”.
-* Phải phân biệt giữa **sự vâng phục là kết quả của sự cứu rỗi** và **sự vâng phục được biến thành điều kiện để mua hoặc duy trì sự cứu rỗi**.
+## 2. Tin Lành theo WMSCOG là gì?
 
-Khung SDA cần sử dụng:
+### 2.1. Tin Lành được đồng nhất với “giao ước mới”
 
-* Con người được xưng công bình bởi ân điển, nhờ đức tin trong Đức Chúa Jesus Christ.
-* Không việc làm, nghi lễ hay tư cách giáo hội nào tạo ra công trạng cứu rỗi.
-* Luật pháp bày tỏ ý muốn và bản tính của Đức Chúa Trời nhưng không thể xưng công bình tội nhân.
-* Sự vâng phục là kết quả của đức tin sống động và công việc tái tạo của Đức Thánh Linh.
-* Báp-têm là sự công khai bước vào giao ước với Đấng Christ, không phải nghi thức ma thuật tự động xóa tội.
-* Tiệc Thánh hướng về sự hy sinh đầy đủ của Đấng Christ; giáo hội không sở hữu hay độc quyền phân phối sự hy sinh ấy.
-* Hội thánh là thân thể của Đấng Christ, không thể bị đồng nhất tuyệt đối với một pháp nhân tôn giáo hiện đại.
-* Đấng Christ là Đấng Trung Bảo duy nhất và đầy đủ.
+Trang chính thức về Ahn Sahng-hong định nghĩa Tin Lành theo một chuỗi rõ ràng:
 
-Có thể tham khảo các tín điều SDA chính thức về:
+* Tin Lành là mọi điều Đức Chúa Jê-sus đã dạy và truyền phải làm;
+* những điều ấy gồm báp-têm, Sa-bát, Lễ Lều Tạm và Lễ Vượt Qua;
+* các kỳ lễ là phần “không thể thiếu” của Tin Lành;
+* Tin Lành là giao ước mới;
+* cốt lõi của giao ước mới là Lễ Vượt Qua.[^wms-gospel]
 
-* Kinh Thánh.
-* Ba Ngôi.
-* Sự sống, sự chết và sự phục sinh của Đấng Christ.
-* Kinh nghiệm cứu rỗi.
-* Tăng trưởng trong Đấng Christ.
-* Hội thánh.
-* Báp-têm.
-* Tiệc Thánh.
-* Luật pháp Đức Chúa Trời.
-* Ngày Sa-bát.
-* Chức vụ của Đấng Christ trong đền thánh trên trời.
+Kinh Thánh chắc chắn không tách Tin Lành khỏi đời sống môn đồ. Ma-thi-ơ 28:20 truyền dạy người tin giữ mọi điều Đấng Christ đã truyền. Nhưng Tân Ước đặt trọng tâm của Tin Lành trước hết nơi điều Đức Chúa Trời **đã làm** trong sự chết và phục sinh của Đấng Christ:
 
-Không được biến bài viết thành quảng bá giáo phái SDA. SDA chỉ là hệ quy chiếu thần học để đánh giá các tuyên bố cứu rỗi của WMSCOG.
+* 1 Cô-rinh-tô 15:1–4: Đấng Christ chết vì tội lỗi, bị chôn và sống lại;
+* Rô-ma 1:16–17: Tin Lành là quyền phép Đức Chúa Trời để cứu mọi kẻ tin;
+* Rô-ma 3–4: tội nhân được xưng công bình bởi ân điển qua đức tin;
+* Ga-la-ti: thêm điều kiện giao ước vào nền tảng xưng công bình là làm biến dạng Tin Lành.
 
-## Yêu cầu nghiên cứu
+WMSCOG không loại bỏ thập tự giá khỏi từ vựng, nhưng họ chuyển trọng tâm từ công việc hoàn tất của Đấng Christ sang một **hệ thống giáo huấn và nghi lễ phải được giữ**, rồi đặt Lễ Vượt Qua làm lõi vận hành.
 
-Phải duyệt web và kiểm chứng mọi tuyên bố quan trọng.
+### 2.2. “Đức tin thật” trở thành một gói hành động bắt buộc
 
-Ưu tiên nguồn theo thứ tự:
+Một bài chính thức của WMSCOG mở đầu bằng việc khẳng định con người được cứu bởi đức tin. Sau đó bài viết giải thích:
 
-1. Website chính thức của WMSCOG.
-2. Sách, bài giảng, video và tài liệu chính thức của WMSCOG.
-3. Các bản sách của Ahn Sahng-hong nếu có thể tiếp cận.
-4. Website và tài liệu chính thức của SDA.
-5. Kinh Thánh trong nguyên văn hoặc các bản dịch đáng tin cậy.
-6. Nghiên cứu học thuật về thần học, cứu rỗi học, giáo hội học và các nhóm tôn giáo kiểm soát cao.
-7. Hồ sơ pháp lý, tài liệu tòa án và báo chí uy tín nếu cần.
-8. Lời chứng cựu thành viên chỉ dùng để minh họa cách giáo lý được áp dụng, không dùng làm bằng chứng duy nhất để xác lập giáo lý chính thức.
+* các luật giao ước mới là “tuyệt đối cần thiết” cho sự cứu rỗi;
+* người tin nhưng không báp-têm không khác người không tin;
+* dù đức tin lớn đến đâu, người không ăn thịt và uống huyết Đấng Christ vẫn không được cứu;
+* cách ăn và uống ấy là giữ Lễ Vượt Qua;
+* nghi thức rửa chân trong lễ cũng cần thiết cho sự cứu rỗi.[^wms-faith-action]
 
-Đối với mỗi giáo lý của WMSCOG:
+Mệnh đề “đức tin sống động sinh ra hành động” là Kinh Thánh. Nhưng WMSCOG đi xa hơn: hành động cụ thể do hệ thống xác định trở thành tiêu chuẩn quyết định đức tin có phải đức tin cứu rỗi hay không.
 
-* Trích dẫn chính xác tuyên bố của họ.
-* Dẫn URL trực tiếp đến nguồn.
-* Ghi ngày truy cập.
-* Phân biệt rõ tài liệu chính thức, tài liệu của thành viên và tài liệu phê bình.
-* Không dựa vào website chống WMSCOG khi nguồn chính thức đang có sẵn.
-* Không gán cho họ điều họ không thực sự tuyên bố.
-* Không sử dụng tin đồn, nội dung giật gân hoặc cáo buộc chưa kiểm chứng.
+Sự khác biệt là:
 
-Nếu tài liệu chính thức sử dụng ngôn ngữ mơ hồ như “ân điển”, “đức tin” hoặc “vâng phục”, hãy phân tích hệ thống tổng thể thay vì chỉ dựa vào một câu riêng lẻ.
+* **Trật tự Tin Lành:** Đấng Christ cứu → Đức Thánh Linh tái tạo → người tin vâng phục.
+* **Trật tự điều kiện:** người nghe nhận đúng giáo lý → thực hiện đúng nghi lễ → được hệ thống công nhận là có đức tin cứu rỗi.
 
-Cần phân biệt:
+### 2.3. Thập tự giá được thừa nhận nhưng chưa đủ để áp dụng sự tha tội
 
-* Những điều WMSCOG nói là cần thiết.
-* Những điều họ nói là dấu hiệu của người được cứu.
-* Những điều họ xem là phương tiện nhận sự tha thứ.
-* Những điều họ xem là điều kiện để tránh tai họa hoặc nhận sự sống đời đời.
-* Những điều do cựu thành viên thuật lại nhưng chưa tìm được xác nhận chính thức.
+WMSCOG nói Đấng Christ đổ huyết và trả giá cho tội nhân. Tuy nhiên, một bài chính thức tuyên bố sự tha tội không thể nhận chỉ bằng việc tin vào sự hy sinh ấy; muốn nhận sự tha thứ trọn vẹn, con người phải dự phần vào huyết Đấng Christ bằng Lễ Vượt Qua giao ước mới.[^wms-forgiveness]
 
-## Các câu hỏi bắt buộc phải trả lời
+Cấu trúc thực tế là:
 
-### 1. WMSCOG định nghĩa Tin Lành như thế nào?
+1. Đấng Christ đã đổ huyết.
+2. Nhưng lợi ích của huyết chưa được tiếp nhận chỉ bởi đức tin.
+3. Lợi ích phải được nhận qua Lễ Vượt Qua.
+4. Lễ phải đúng ngày, đúng giờ và đúng nghi thức.
+5. WMSCOG tuyên bố mình là hội thánh duy nhất giữ lễ đúng như Đấng Christ và các sứ đồ.[^wms-passover]
 
-* “Giao ước mới” trong hệ thống của họ là gì?
-* Tin Lành có bị thu hẹp thành việc giữ Lễ Vượt Qua và các kỳ lễ không?
-* Họ có xem việc phục hồi nghi lễ là nhiệm vụ trung tâm của Đấng Christ tái lâm không?
-* Vai trò của thập tự giá và sự phục sinh nằm ở đâu trong hệ thống này?
+Về ngôn ngữ, huyết Đấng Christ vẫn được tôn trọng. Về chức năng, tổ chức kiểm soát cánh cửa dẫn đến huyết ấy.
 
-### 2. Vai trò cứu rỗi của Ahn Sahng-hong là gì?
+---
 
-* Một người có thể được cứu mà không nhận biết Ahn không?
-* Ahn được xem là người chỉ đường trở về Đấng Christ hay chính là Đấng Christ?
-* “Danh mới” có trở thành một loại mật khẩu cứu rỗi không?
-* Học thuyết “ba thời đại, ba danh” thay đổi Công vụ 4:12 như thế nào?
-* Nếu Ahn là điều kiện nhận biết bắt buộc, sự đầy đủ của Đức Chúa Jesus lịch sử còn lại bao nhiêu?
+## 3. Bản đồ các điều kiện cứu rỗi
 
-### 3. Vai trò cứu rỗi của “Đức Chúa Trời Mẹ” là gì?
+| Điều kiện              | Tuyên bố chính thức của WMSCOG                                                      | Lời hứa hoặc hậu quả                                       | Ai xác nhận trên thực tế?                                           |
+| ---------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------- |
+| Tin Ahn Sahng-hong     | Ahn là Đấng Christ tái lâm, “danh mới” và Đấng Cứu Thế thời Đức Thánh Linh          | Người thời nay phải biết, tin và cầu nguyện trong danh Ahn | Tổ chức giải mã lời tiên tri và công bố danh mới                    |
+| Tin “Đức Chúa Trời Mẹ” | Chỉ qua Mẹ mới nhận sự sống đời đời                                                 | Được nước sự sống, trở thành con/thừa kế và vào thiên quốc | Tổ chức xác định “Cô Dâu” và “Giê-ru-sa-lem” là một phụ nữ hiện hữu |
+| Báp-têm                | Báp-têm thiết yếu; người chưa báp-têm không thể vào Nước Trời                       | Tha tội, đời sống mới, trở thành dân Đức Chúa Trời         | Công thức phải gồm danh thời Đức Thánh Linh là Ahn                  |
+| Lễ Vượt Qua            | Chỉ giữ lễ mới nhận tha tội và sự sống đời đời                                      | Tha tội, sống đời đời, bảo vệ khỏi tai họa                 | WMSCOG quy định lịch, giờ, nghi thức và tự nhận giữ đúng duy nhất   |
+| Sa-bát và kỳ lễ        | Các luật giao ước mới cần thiết cho sự cứu rỗi                                      | Không vâng phục bị liên kết với việc không vào Nước Trời   | Tổ chức xác định lịch và cách giữ                                   |
+| Thuộc về “Si-ôn”       | Si-ôn là nơi giữ kỳ lễ và ban sự cứu rỗi; Si-ôn là Hội Thánh của Đức Chúa Trời      | Phải đến Si-ôn để nhận tha tội và sự sống                  | Chính tổ chức định nghĩa mình là Si-ôn                              |
+| Tiếp tục thực hành     | Đức tin cứu rỗi phải biểu hiện bằng báp-têm, Lễ Vượt Qua, rửa chân, Sa-bát và kỳ lễ | Không thực hành thì đức tin không cứu được                 | Hệ thống giáo lý quyết định thế nào là thực hành đúng               |
 
-* WMSCOG có dạy rằng không thể có sự sống đời đời nếu không nhận biết Mẹ không?
-* “Nước sự sống” được nhận từ Đấng Christ, Đức Thánh Linh, Kinh Thánh hay từ Jang Gil-ja?
-* Học thuyết Mẹ có bổ sung một trung gian cứu rỗi bên cạnh Đấng Christ không?
-* Việc phải trở thành “con của Mẹ” có đồng nghĩa phải gia nhập tổ chức không?
+Nguồn: các trang chính thức về Tin Lành, đức tin và hành động, báp-têm, Lễ Vượt Qua, Ahn, Mẹ, Sa-bát và Si-ôn.[^wms-gospel][^wms-faith-action][^wms-baptism][^wms-new-name][^wms-mother][^wms-sabbath][^wms-zion]
 
-### 4. Báp-têm đóng vai trò gì?
+Điểm quyết định là **tính tích lũy**. Tin Ahn nhưng không tin Mẹ thì chưa đủ. Tin cả hai nhưng không báp-têm đúng danh thì chưa đủ. Báp-têm nhưng không dự Lễ Vượt Qua thì chưa có sự sống theo cách WMSCOG giải thích Giăng 6. Giữ lễ nhưng không ở “Si-ôn” thì nghi lễ không được xác nhận là đúng giao ước mới.
 
-* Họ có dạy phải chịu báp-têm ngay lập tức mới được cứu không?
-* Báp-têm nhân danh ai?
-* Báp-têm có hiệu lực ngoài WMSCOG không?
-* Người đã chịu báp-têm trong một hội thánh khác có phải chịu lại không?
-* Báp-têm được trình bày như biểu tượng của đức tin hay như cơ chế tự động xóa tội?
-* Việc kiểm soát báp-têm trao quyền gì cho tổ chức?
+Mọi mắt xích đều quay về một tổ chức.
 
-### 5. Lễ Vượt Qua có bị biến thành điều kiện cứu rỗi không?
+---
 
-* WMSCOG liên kết Lễ Vượt Qua với sự tha tội, sự sống đời đời và sự bảo vệ khỏi tai họa như thế nào?
-* Họ có dạy rằng người không dự Lễ Vượt Qua không thể được cứu không?
-* Lễ Vượt Qua được hiểu là tưởng niệm sự hy sinh của Đấng Christ hay là nghi thức bắt buộc để sự hy sinh ấy có hiệu lực?
-* Hội thánh nào được quyền tổ chức Lễ Vượt Qua “hợp lệ”?
-* Đây có phải là một hình thức sacramental exclusivism — độc quyền bí tích — hay không?
+## 4. Ahn Sahng-hong và “danh mới”
 
-### 6. Sa-bát và các kỳ lễ được đặt trong quan hệ nào với sự cứu rỗi?
+### 4.1. Ahn không chỉ là nhà cải chánh
 
-* Họ phân biệt điều kiện cứu rỗi và kết quả của sự cứu rỗi không?
-* Điều gì xảy ra với người tin Ahn và Mẹ nhưng không giữ đúng nghi lễ?
-* Điều gì xảy ra với người thành thật giữ Sa-bát nhưng không thuộc WMSCOG?
-* Vì sao việc giữ đúng ngày lại không đủ nếu không ở trong đúng tổ chức?
-* Hệ thống này có thực sự đặt trọng tâm vào luật pháp Đức Chúa Trời, hay đặt trọng tâm vào cách diễn giải độc quyền của tổ chức?
+Nguồn chính thức không mô tả Ahn Sahng-hong như một người giúp hội thánh trở về với Đức Chúa Jê-sus. Họ tuyên bố:
 
-### 7. “Si-ôn” có bị đồng nhất với pháp nhân WMSCOG không?
+* Ahn là Đấng Christ tái lâm;
+* Ahn là Đấng Cứu Thế thời Đức Thánh Linh;
+* Ahn mang “danh mới” của Đức Chúa Jê-sus;
+* người thời nay phải biết, tin và cầu nguyện trong danh ấy.[^wms-new-name]
 
-* WMSCOG định nghĩa Si-ôn là nơi giữ các kỳ lễ như thế nào?
+Theo logic “ba thời đại, ba danh”:
 
-* Từ đó họ chứng minh mình là hội thánh duy nhất ra sao?
+1. thời Đức Cha có danh Giê-hô-va;
+2. thời Đức Con có danh Jê-sus;
+3. thời Đức Thánh Linh có danh mới;
+4. danh mới là Ahn Sahng-hong.
 
-* Có circular reasoning hay không:
+Nếu các tiền đề ấy đúng, người chỉ tin Đức Chúa Jê-sus của Tân Ước nhưng chưa biết Ahn đang thiếu danh cứu rỗi của thời đại hiện tại. WMSCOG không phải lúc nào cũng nói kết luận bằng đúng câu đó, nhưng đó là hệ quả trực tiếp của hệ thống.
 
-  Si-ôn là nơi có chân lý → chân lý là giữ các kỳ lễ → WMSCOG giữ các kỳ lễ → WMSCOG là Si-ôn → chỉ WMSCOG có chân lý.
+### 4.2. Công vụ 4:12 không thiết lập một chuỗi thay tên
 
-* Một người có thể thuộc về thân thể Đấng Christ mà không thuộc WMSCOG không?
+Công vụ 4:10–12 nói về **Đức Chúa Jê-sus Christ người Na-xa-rét**, Đấng bị đóng đinh và được khiến sống lại. “Danh” không chỉ là âm tiết; nó đại diện cho căn tính, thẩm quyền và công việc của chính Đấng được xưng danh.
 
-* Tổ chức có trở thành một trung gian cứu rỗi trên thực tế không?
+Tân Ước không nói thẩm quyền cứu rỗi của Đức Chúa Jê-sus hết hiệu lực khi lịch sử chuyển sang một “thời đại Đức Thánh Linh”:
 
-### 8. Hệ thống này giải quyết sự bất nhất như thế nào?
+* Ngài sống đời đời và có chức tế lễ không đổi (Hê-bơ-rơ 7:23–25);
+* Ngài là Đấng Trung Bảo duy nhất (1 Ti-mô-thê 2:5–6);
+* Ngài vẫn là đường đi, chân lý và sự sống (Giăng 14:6);
+* sự sống đời đời ở trong Con (1 Giăng 5:11–13).
 
-Hãy thử các trường hợp kiểm tra:
+Không sứ đồ nào báo trước một người đàn ông khác sẽ trở thành đối tượng cầu nguyện bắt buộc hoặc được đưa vào công thức báp-têm.
 
-* Người tin Đức Chúa Jesus, ăn năn thật và sống bởi đức tin nhưng chưa từng nghe tên Ahn.
-* Người giữ ngày Sa-bát nhưng không tin Jang Gil-ja.
-* Người dự Lễ Vượt Qua ở một hội thánh khác.
-* Người đã chịu báp-têm nhưng sau đó rời WMSCOG.
-* Thành viên trung thành nhưng bỏ lỡ một kỳ lễ vì bệnh.
-* Người chết trước khi WMSCOG xuất hiện năm 1964.
-* Cơ Đốc nhân sống giữa thời Ahn chết năm 1985 và lúc giáo lý Mẹ được công bố rộng rãi.
-* Người không thể tiếp cận một chi hội WMSCOG.
+### 4.3. “Danh mới” như tri thức bí truyền
 
-Các trường hợp này nhằm xác định hệ thống cứu rỗi có nhất quán, khả thi và công bằng theo chính logic của nó hay không.
+Khải Huyền 2:17 và 3:12 dùng ngôn ngữ biểu tượng về “tên mới”, nhưng không nêu Ahn, không nói tên ấy là một nhân vật Triều Tiên thế kỷ XX và không thiết lập ba giai đoạn thay danh cứu rỗi.
 
-## Khung phân tích thần học
+Để đi đến Ahn, WMSCOG cần một chuỗi suy luận do chính tổ chức cung cấp. Người đọc Kinh Thánh độc lập không thể rút tên Ahn từ bản văn. Chỉ người tiếp nhận bộ mã giải nghĩa của WMSCOG mới “nhận ra” danh mới.
 
-Phân tích theo ít nhất sáu trục:
+Tri thức này vì thế vận hành như một mật khẩu cứu rỗi. Kinh Thánh không còn được xem là đủ rõ để dẫn tội nhân đến Đấng Christ; người đọc cần tổ chức trao chìa khóa ẩn.
 
-### A. Sola gratia — Chỉ bởi ân điển
+---
 
-* Ân điển có còn là quà tặng nhưng không không?
-* Hay ân điển chỉ được mở khóa qua chuỗi nghi lễ do tổ chức kiểm soát?
+## 5. “Đức Chúa Trời Mẹ” và nguồn sự sống
 
-### B. Sola fide — Xưng công bình bởi đức tin
+### 5.1. Đây là giáo lý cứu rỗi, không phải hình ảnh thơ ca
 
-* WMSCOG có phân biệt xưng công bình và nên thánh không?
-* Họ có đưa việc làm và nghi lễ vào nền tảng được chấp nhận trước mặt Đức Chúa Trời không?
+Nguồn chính thức nói:
 
-### C. Sự đầy đủ của Đấng Christ
+* con người chỉ có thể nhận sự sống đời đời qua Đức Chúa Trời Mẹ;
+* linh hồn không thể có sự sống thuộc linh nếu không có Mẹ;
+* Thánh Linh và Cô Dâu cùng ban nước sự sống;
+* con cái nhận sự sống từ Mẹ và vào thiên quốc;
+* WMSCOG là hội thánh duy nhất tin Đức Chúa Trời Mẹ.[^wms-mother]
 
-* Sự hy sinh của Đấng Christ đã hoàn tất hay cần được kích hoạt bằng Lễ Vượt Qua của WMSCOG?
-* Đức Chúa Jesus là Đấng Trung Bảo duy nhất hay phải đi qua Ahn, Mẹ và Si-ôn?
+Một bài giảng khác nói không ai có thể là người thừa kế Đức Chúa Trời nếu không qua Mẹ; không phải con thì cuối cùng không thể được cứu.[^wms-mother-heir]
 
-### D. Bản chất của bí lễ
+Nếu không có Mẹ thì không có sự sống, Mẹ đang giữ chức năng mà Tân Ước đặt nơi Đức Chúa Jê-sus:
 
-* Báp-têm và Lễ Vượt Qua là dấu hiệu của giao ước hay công cụ tự động tạo ra sự cứu rỗi?
-* Giá trị của nghi lễ đến từ Đấng Christ hay từ tổ chức thực hiện nghi lễ?
+* sự sống ở trong Con (1 Giăng 5:11–12);
+* ai tin Con có sự sống đời đời;
+* Đấng Christ là bánh sự sống (Giăng 6);
+* Ngài ban nước sống qua Đức Thánh Linh (Giăng 7:37–39).
 
-### E. Giáo hội học
+WMSCOG không chỉ nói Mẹ làm chứng về sự sống. Họ nói Mẹ **ban** sự sống.
 
-* Hội thánh là cộng đồng của mọi người thuộc về Đấng Christ hay một tổ chức duy nhất có trụ sở, hệ thống lãnh đạo và tư cách pháp nhân?
-* Việc đồng nhất tổ chức với Si-ôn có cơ sở chú giải hay chỉ là tuyên bố tự xác nhận?
+### 5.2. Ga-la-ti 4 bị tách khỏi lời giải thích của Phao-lô
 
-### F. Thẩm quyền
+Ga-la-ti 4:26 nói “Giê-ru-sa-lem ở trên cao” là mẹ chúng ta. Nhưng câu 24 đã chỉ rõ đây là một **nghĩa bóng** về hai giao ước:
 
-* Ai quyết định một nghi lễ được thực hiện đúng?
-* Ai quyết định danh xưng nào phải được tin?
-* Ai có quyền giải thích Kinh Thánh?
-* Khi mọi điều kiện cứu rỗi đều do một tổ chức xác định, quyền lực thực tế nằm trong tay Đấng Christ hay lãnh đạo tổ chức?
+* A-ga tượng trưng cho giao ước sinh ra trong nô lệ;
+* Sa-ra/người nữ tự do tượng trưng cho lời hứa;
+* người tin là con của lời hứa như Y-sác.
 
-## Phân tích Kinh Thánh
+Chủ đề là hai giao ước và hai địa vị, không phải sự mặc khải một nữ thần nhập thể trong thời cuối cùng.
 
-Phải giải nghĩa có văn cảnh, không proof-text.
+WMSCOG phải chuyển qua bốn bước không có trong bản văn:
 
-Ít nhất xem xét:
+1. từ biểu tượng giao ước;
+2. thành một hữu thể thần linh;
+3. thành một phụ nữ lịch sử;
+4. rồi thành điều kiện thừa kế Nước Trời.
 
-* Ê-sai 55:1.
-* Giê-rê-mi 31:31–34.
-* Ma-thi-ơ 11:28–30.
-* Ma-thi-ơ 26:26–29.
-* Ma-thi-ơ 28:18–20.
-* Giăng 3:14–18.
-* Giăng 5:24.
-* Giăng 6.
-* Giăng 14:6.
-* Giăng 19:30.
-* Công vụ 2:38.
-* Công vụ 4:10–12.
-* Công vụ 10–11.
-* Công vụ 15.
-* Công vụ 16:30–34.
-* Rô-ma 3:21–31.
-* Rô-ma 4.
-* Rô-ma 5:1–11.
-* Rô-ma 6.
-* Rô-ma 10:9–13.
-* 1 Cô-rinh-tô 1:17–18.
-* 1 Cô-rinh-tô 11:23–29.
-* 1 Cô-rinh-tô 12:13.
-* Ga-la-ti 1:6–9.
-* Ga-la-ti 2:16–21.
-* Ga-la-ti 3.
-* Ga-la-ti 4:21–31.
-* Ga-la-ti 5:1–6.
-* Ê-phê-sô 2:1–10.
-* Phi-líp 3:7–11.
-* Cô-lô-se 2:13–17.
-* 1 Ti-mô-thê 2:5–6.
-* Tít 3:3–7.
-* Hê-bơ-rơ 7:23–28.
-* Hê-bơ-rơ 9–10.
-* 1 Giăng 5:11–13.
-* Khải Huyền 7:13–17.
-* Khải Huyền 21–22.
+Đây là kiểu chuyển biểu tượng thành tiểu sử đã được phân tích trong [Phần 03](./phuong-phap-giai-kinh.md), đồng thời liên hệ trực tiếp đến mâu thuẫn lịch sử được khảo sát trong [Phần 05](./mau-thuan-noi-tai.md).
 
-Không cần bình luận dài tất cả các câu. Chỉ chọn những câu trực tiếp phục vụ lập luận.
+### 5.3. Khải Huyền 22:17 không chứng minh Cô Dâu là nữ thần
 
-Đặc biệt:
+Khải Huyền 22:17 nói Thánh Linh và Cô Dâu mời “Hãy đến”; người nghe cũng được lệnh nói “Hãy đến”. Nếu lời mời tự nó chứng minh người nói là Đức Chúa Trời ban sự sống, “người nghe” trong cùng câu cũng phải là Đức Chúa Trời.
 
-* Không dùng Ê-phê-sô 2:8–9 để phủ nhận câu 10.
-* Không dùng đức tin đối lập với mọi hình thức vâng phục.
-* Không dùng Hê-bơ-rơ để phủ nhận ngày Sa-bát mà không giải thích văn cảnh.
-* Không giả định mọi nghi lễ đều sai chỉ vì đó là nghi lễ.
-* Cần chứng minh vấn đề nằm ở việc nghi lễ bị biến thành phương tiện cứu rỗi độc quyền.
+Khải Huyền 21:2, 9–10 mô tả Cô Dâu bằng hình ảnh Giê-ru-sa-lem Mới — thành thánh, cộng đồng cứu chuộc được trang sức cho Chiên Con. Tân Ước cũng gọi hội thánh là cô dâu của Đấng Christ. Bản văn không nêu một nữ thần đồng đẳng với Đấng Christ.
 
-## Cấu trúc đề nghị
+Nguồn tiếng Anh hiện nay thường dùng danh xưng “Heavenly Mother” hay “Jerusalem Mother” thay vì tên dân sự. Series này gọi nhân vật theo tên công khai Jang/Zahng Gil-jah; vấn đề lịch sử được phân tích trong Phần 05. Điều cần thấy ở đây là cấu trúc quyền lực:
 
-### Mở bài
+> chỉ WMSCOG nhận biết Mẹ → Mẹ là điều kiện của sự sống → muốn nhận sự sống phải đến cộng đồng duy nhất công bố và đại diện cho Mẹ.
 
-Hook mạnh:
+Đó là một tầng trung gian Tân Ước không thiết lập.
 
-> Một hệ thống tôn giáo không cần tuyên bố “chúng tôi cứu bạn” để trở thành người kiểm soát sự cứu rỗi. Chỉ cần họ thuyết phục bạn rằng máu Đấng Christ không có hiệu lực nếu bạn chưa dự đúng nghi lễ, chưa nhận đúng “danh mới” và chưa bước vào đúng tổ chức.
+---
 
-Sau đó đặt vấn đề:
+## 6. Báp-têm như cổng vào hệ thống
 
-WMSCOG vẫn nói về đức tin, ân điển, huyết Đấng Christ và giao ước mới. Nhưng khi ghép các giáo lý riêng lẻ lại, con đường cứu rỗi trở thành một chuỗi điều kiện mà chỉ tổ chức này có quyền xác nhận.
+### 6.1. Tuyên bố chính thức
 
-### Phần 1 — Tin Lành theo WMSCOG là gì?
+Nguồn chính thức gọi báp-têm là điều thiết yếu cho sự cứu rỗi, nói người chưa báp-têm không thể vào Nước Trời, và mô tả báp-têm như việc chôn tội cũ, nhận đời sống mới, được tha tội và trở thành dân Đức Chúa Trời.[^wms-baptism]
 
-Dựng hệ thống từ chính nguồn chính thức của họ.
+WMSCOG còn kết nối Ma-thi-ơ 28:19 với ba danh:
 
-### Phần 2 — Chuỗi điều kiện cứu rỗi
+* Đức Cha: Giê-hô-va;
+* Đức Con: Jê-sus;
+* Đức Thánh Linh/danh mới: Ahn Sahng-hong.[^wms-new-name]
 
-Lập bảng:
+Vì vậy, phép báp-têm không chỉ xưng nhận Ba Ngôi theo lời Đức Chúa Jê-sus. Nó trở thành nghi thức xác nhận Ahn là Đấng Cứu Thế của thời đại hiện nay.
 
-| Điều kiện            | Tuyên bố của WMSCOG | Lời hứa hoặc hậu quả | Ai có quyền xác nhận? |
-| -------------------- | ------------------- | -------------------- | --------------------- |
-| Tin Ahn Sahng-hong   | ...                 | ...                  | ...                   |
-| Tin Đức Chúa Trời Mẹ | ...                 | ...                  | ...                   |
-| Báp-têm              | ...                 | ...                  | ...                   |
-| Lễ Vượt Qua          | ...                 | ...                  | ...                   |
-| Sa-bát và kỳ lễ      | ...                 | ...                  | ...                   |
-| Thuộc về Si-ôn       | ...                 | ...                  | ...                   |
+### 6.2. Giới hạn của bằng chứng công khai
 
-Không điền bảng bằng suy đoán. Mỗi dòng phải có nguồn.
+Các nguồn được khảo sát nói báp-têm phải diễn ra trong “chân lý giao ước mới” và dùng ba danh theo cách WMSCOG hiểu. Cấu trúc ấy khiến phép báp-têm không công nhận Ahn không thể đáp ứng đầy đủ công thức của họ.
 
-### Phần 3 — Khi tổ chức trở thành người giữ cổng
+Tuy nhiên, chưa thấy trong các nguồn công khai đã khảo sát một chính sách đầy đủ giải quyết mọi trường hợp:
 
-Phân tích cơ chế độc quyền:
+* mọi người từ giáo hội khác có bắt buộc báp-têm lại hay không;
+* người không thể tiếp cận người làm lễ được xử lý thế nào;
+* người chết trước khi có cơ hội báp-têm theo hệ thống có địa vị gì.
 
-* Chỉ tổ chức biết danh mới.
-* Chỉ tổ chức nhận biết Mẹ.
-* Chỉ tổ chức là Si-ôn.
-* Chỉ nghi lễ do tổ chức thực hiện được xem là hợp lệ.
-* Vì vậy, cứu rỗi trên thực tế chỉ có thể được tiếp cận qua tổ chức.
+Vì vậy, không nên suy đoán vượt nguồn. Kết luận chắc chắn là: WMSCOG gắn hiệu lực cứu rỗi của báp-têm với một nội dung giáo lý mà chỉ họ chấp nhận đầy đủ.
 
-### Phần 4 — Tin Lành của các sứ đồ
+### 6.3. Báp-têm quan trọng nhưng không phải phép thuật
 
-Đối chiếu với sứ điệp cứu rỗi trong Công vụ, Rô-ma, Ga-la-ti, Ê-phê-sô và Hê-bơ-rơ.
+Phê bình WMSCOG không đồng nghĩa phủ nhận báp-têm. Đức Chúa Jê-sus truyền báp-têm; Công vụ ghi lại việc người tin được báp-têm; Rô-ma 6 mô tả sự đồng chết và đồng sống lại với Đấng Christ.
 
-### Phần 5 — Vâng phục không phải giá mua sự cứu rỗi
+Nhưng Công vụ 10 cho thấy Cọt-nây và gia đình nhận Đức Thánh Linh khi đang nghe Tin Lành, trước khi báp-têm bằng nước. Báp-têm sau đó xác nhận công việc Đức Chúa Trời đã làm; nghi thức không giam quyền ban Thánh Linh của Ngài.
 
-Trình bày quan điểm cân bằng theo SDA:
+Trong Công vụ 16:30–34, câu trả lời cho “Tôi phải làm chi cho được cứu?” là: “Hãy tin Đức Chúa Jê-sus.” Báp-têm theo sau ngay, nhưng không thay thế đối tượng của đức tin.
 
-* Ân điển không hủy bỏ luật pháp.
-* Đức tin không sản sinh vâng phục là đức tin chết.
-* Nhưng sự vâng phục không tạo ra công trạng.
-* Nghi lễ không thể thay thế Đấng Trung Bảo.
-* Không giáo hội nào sở hữu máu Đấng Christ.
+Theo tuyên bố SDA, báp-têm là lời xưng nhận đức tin nơi sự chết và phục sinh của Đấng Christ, biểu tượng sự kết hiệp với Ngài, sự tha tội và tiếp nhận Đức Thánh Linh; nó theo sau sự xác nhận đức tin và ăn năn.[^sda-baptism]
 
-### Phần 6 — Các bài kiểm tra logic
+Báp-têm làm chứng rằng tội nhân thuộc về Đấng Christ. Nó không trao cho một tổ chức quyền sở hữu cánh cửa dẫn đến Đấng Christ.
 
-Áp dụng những trường hợp giả định để kiểm tra tính nhất quán.
+---
 
-### Phần 7 — “Một Tin Lành khác”
+## 7. Lễ Vượt Qua và độc quyền bí lễ
 
-Giải nghĩa Ga-la-ti 1:6–9 trong văn cảnh. Không chỉ gọi WMSCOG là “Tin Lành khác” như khẩu hiệu; phải chứng minh họ thay đổi:
+### 7.1. Các tuyên bố không mơ hồ
 
-* Đối tượng đức tin.
-* Nội dung Tin Lành.
-* Phương tiện cứu rỗi.
-* Vai trò của Đấng Christ.
-* Vai trò của tổ chức.
+WMSCOG tuyên bố Lễ Vượt Qua giao ước mới:
 
-### Kết luận
+* là cốt lõi của Kinh Thánh;
+* là lễ thiết yếu;
+* ban tha tội, sự sống đời đời và bảo vệ khỏi tai họa;
+* là cách duy nhất ăn thịt và uống huyết Đức Chúa Jê-sus;
+* nếu không giữ thì không bao giờ có sự sống;
+* bánh và rượu ngày khác không thể trở thành thịt và huyết Đấng Christ;
+* chỉ bánh và rượu vào tối ngày 14 tháng thứ nhất theo lịch thánh chứa lời hứa sự sống;
+* WMSCOG là hội thánh duy nhất giữ lễ giống Đức Chúa Jê-sus và các môn đồ.[^wms-passover][^wms-passover-exact]
 
-Kết luận cần mạnh nhưng chính xác:
+Đây là **độc quyền bí lễ** (*sacramental exclusivism*):
 
-> Vấn đề không phải WMSCOG kêu gọi con người vâng phục. Vấn đề là họ đặt giữa tội nhân và Đấng Christ một chuỗi điều kiện mà chính tổ chức có quyền định nghĩa, thực hiện và xác nhận. Khi không còn Ahn, Mẹ, báp-têm của hội, Lễ Vượt Qua của hội và Si-ôn của hội thì không còn hy vọng cứu rỗi, tổ chức ấy đã không còn chỉ rao giảng về con đường cứu rỗi. Nó đã tự đặt mình vào trong con đường đó.
+1. nghi thức là điều kiện không thể thiếu;
+2. hiệu lực phụ thuộc thời điểm và hình thức chính xác;
+3. hình thức ngoài hệ thống bị xem là vô hiệu;
+4. một tổ chức tự nhận mình là nơi duy nhất còn giữ đúng.
 
-Kết thúc bằng lời mời độc giả tự kiểm tra:
+### 7.2. Thập tự giá đã hoàn tất điều gì?
 
-* Đấng Christ đã hoàn tất điều gì trên thập tự giá?
-* Một tội nhân phải đến trực tiếp với Ngài hay phải thông qua một tổ chức độc quyền?
-* Đức tin dẫn đến vâng phục, hay nghi lễ tạo ra quyền được cứu?
-* Hội thánh làm chứng về sự cứu rỗi, hay sở hữu sự cứu rỗi?
+WMSCOG đúng khi bác ý tưởng rằng “Mọi việc đã được trọn” có nghĩa Cơ Đốc nhân được phép sống phản nghịch. Nhưng họ tiếp tục nói tín hữu phải giữ Sa-bát và Lễ Vượt Qua, đồng thời khẳng định không thể nhận tha tội trọn vẹn chỉ bằng tin vào thập tự giá.[^wms-finished][^wms-forgiveness]
 
-## Văn phong
+Cấu trúc trở thành:
 
-* Viết bằng tiếng Việt.
-* Dạng bài nghiên cứu hoàn chỉnh, không phải dàn ý.
-* Văn phong sắc bén, dễ đọc, có sức thuyết phục.
-* Không dùng giọng chửi bới, miệt thị hoặc chế giễu tín hữu.
-* Phê bình hệ thống giáo lý và cơ chế quyền lực, không tấn công phẩm giá cá nhân.
-* Giải thích thuật ngữ thần học bằng ngôn ngữ phổ thông.
-* Mỗi phần phải có luận điểm rõ ràng.
-* Tránh lặp lại cùng một kết luận.
-* Không kéo dài bằng các đoạn diễn giải Kinh Thánh không liên quan.
-* Có thể sử dụng câu hỏi tu từ nhưng không lạm dụng.
-* Phân biệt rõ dữ kiện, lời tuyên bố của WMSCOG và nhận định của tác giả.
-* Khi chưa đủ bằng chứng, phải viết rõ giới hạn thay vì suy đoán.
+* Đấng Christ hoàn tất sự hy sinh;
+* nhưng người tin chưa nhận hiệu lực tha tội;
+* Lễ Vượt Qua là phương tiện bắt buộc để dự phần huyết;
+* tổ chức nắm lịch và nghi thức hợp lệ.
 
-## Đầu ra
+Hê-bơ-rơ 9–10 đặt trọng tâm nơi Đấng Christ dâng mình một lần đủ cả, đạt sự cứu chuộc đời đời và mở con đường mới để tín hữu đến gần Đức Chúa Trời. Theo khung SDA, chức vụ hiện tại của Đấng Christ trên trời làm cho tín hữu nhận lợi ích của sự hy sinh “một lần đủ cả”.[^sda-sanctuary] Trung tâm phân phối ân điển là Đấng Christ phục sinh, không phải một pháp nhân nắm lịch nghi lễ.
 
-Tạo bài viết hoàn chỉnh bằng Markdown, sẵn sàng lưu vào Obsidian hoặc GitHub.
+### 7.3. Giăng 6 không thiết lập một buổi lễ hằng năm
 
-Bao gồm:
+WMSCOG nối Giăng 6:53–54 với bánh và rượu Lễ Vượt Qua rồi kết luận không dự đúng lễ thì không có sự sống.
 
-1. Tiêu đề.
-2. Mô tả ngắn hoặc subtitle.
-3. Hook.
-4. Mục lục.
-5. Nội dung nghiên cứu đầy đủ.
-6. Bảng hệ thống điều kiện cứu rỗi.
-7. Trích dẫn nguồn inline.
-8. Chú thích cuối bài hoặc danh mục tài liệu tham khảo.
-9. Liên kết đến các bài trước trong series khi liên quan.
-10. Phần kết luận súc tích, mạnh và có thể đứng độc lập.
-11. Một đoạn tóm tắt 5–8 gạch đầu dòng ở cuối dành cho người chỉ đọc nhanh.
+Nhưng chính văn cảnh giải thích việc ăn và uống bằng ngôn ngữ **đến** và **tin**:
 
-Độ dài mục tiêu: **5.000–8.000 từ**.
+* ai đến cùng Ta chẳng hề đói;
+* ai tin Ta chẳng hề khát;
+* ai tin thì được sự sống đời đời;
+* Đấng Christ là bánh sống từ trời xuống.
 
-Trước khi viết bản hoàn chỉnh:
+Ăn và uống diễn tả việc tiếp nhận Đấng Christ và sự hy sinh của Ngài bằng đức tin. Đoạn văn không nói chỉ bánh và rượu vào một ngày lịch thánh mới có hiệu lực, càng không nói một hội thánh thế kỷ XX sẽ độc quyền phục hồi cơ chế ấy.
 
-1. Đọc toàn bộ năm bài trước.
-2. Thu thập và phân loại nguồn.
-3. Lập bảng các tuyên bố cứu rỗi chính thức của WMSCOG.
-4. Kiểm tra xem luận đề có được nguồn hỗ trợ hay không.
-5. Sau đó mới viết bài.
+### 7.4. Tiệc Thánh rao sự chết của Chúa, không sở hữu huyết Ngài
 
-Không hỏi lại tôi trừ khi có một mâu thuẫn không thể tự giải quyết. Hãy tự nghiên cứu, ghi rõ giả định và hoàn thành bài với mức độ kiểm chứng cao nhất.
+Ma-thi-ơ 26 và 1 Cô-rinh-tô 11 thiết lập việc tưởng niệm sự chết của Chúa qua bánh và chén. Nhưng Phao-lô nhấn mạnh sự tưởng nhớ, rao truyền, tự xét mình và phân biệt thân Chúa. Ông không xây dựng điều kiện cứu rỗi quanh tối ngày 14 theo lịch thánh.
 
+Theo SDA, Tiệc Thánh là sự dự phần vào các biểu tượng thân và huyết Đấng Christ như sự bày tỏ đức tin và được mở cho mọi Cơ Đốc nhân tin Chúa.[^sda-baptism] Hội thánh phục vụ bàn Chúa; hội thánh không sở hữu bàn ấy.
+
+### 7.5. Người bỏ lỡ lễ
+
+WMSCOG có “Lễ Vượt Qua lần thứ hai” một tháng sau, dựa trên Dân Số Ký 9, và tiếp tục gắn lễ ấy với tha tội, sự sống cùng cứu khỏi tai họa.[^wms-second-passover]
+
+Điều này trả lời một phần trường hợp bệnh hoặc trở ngại tạm thời, nhưng không giải quyết:
+
+* người bỏ lỡ cả hai lần;
+* người chết trước ngày lễ;
+* người ở nơi không có chi hội;
+* người mới tin sau lễ;
+* người không thể tham dự vì chiến tranh, giam giữ hoặc khuyết tật.
+
+Nếu ân điển cứu họ ngoài nghi lễ, tuyên bố “không giữ thì không bao giờ có sự sống” cần được giới hạn. Nếu ân điển không thể cứu, sự cứu rỗi phụ thuộc vào lịch, địa lý và khả năng tiếp cận tổ chức.
+
+---
+
+## 8. Sa-bát, các kỳ lễ và sự cứu rỗi
+
+### 8.1. Vấn đề không phải ngày thứ bảy
+
+Bài này không dùng Cô-lô-se 2:16 hay Rô-ma 14 như khẩu hiệu phủ nhận điều răn thứ tư. Nó cũng không đồng nhất SDA với WMSCOG chỉ vì cả hai giữ ngày thứ bảy.
+
+Niềm tin SDA nói:
+
+* luật pháp bày tỏ tình yêu và ý muốn Đức Chúa Trời;
+* sự cứu rỗi hoàn toàn bởi ân điển, không bởi việc làm;
+* hoa trái của sự cứu rỗi là vâng phục;
+* Sa-bát là dấu sáng tạo, cứu chuộc và nên thánh.[^sda-law]
+
+Câu hỏi đúng không phải “có cần vâng lời không?” mà là:
+
+> Sự vâng phục là hoa trái của việc đã được tiếp nhận trong Đấng Christ, hay là điều kiện do tổ chức dùng để quyết định ai được tiếp cận sự cứu rỗi?
+
+### 8.2. WMSCOG đặt Sa-bát trong ngôn ngữ điều kiện
+
+Một bài giảng chính thức nói:
+
+* mọi lời Đức Chúa Trời đều liên hệ đến sự cứu rỗi;
+* không vâng lời đồng nghĩa từ bỏ Nước Trời;
+* người không vâng không thể vào sự yên nghỉ đời đời;
+* Sa-bát “tuyệt đối thiết yếu”;
+* Sa-bát là dấu phân biệt con cái hợp pháp.[^wms-sabbath]
+
+Khi ghép với hệ thống rộng hơn:
+
+1. con thật phải giữ Sa-bát;
+2. giữ đúng phải theo giao ước mới;
+3. giao ước mới được phục hồi bởi Ahn;
+4. nơi giữ giao ước mới là Si-ôn;
+5. Si-ôn là WMSCOG.
+
+Vì vậy, một tín hữu SDA giữ ngày thứ bảy nhưng không công nhận Ahn và Mẹ vẫn không đáp ứng hệ thống. Trọng tâm cuối cùng không chỉ là điều răn thứ tư, mà là cách giải thích độc quyền của tổ chức.
+
+### 8.3. Các kỳ lễ hằng năm
+
+WMSCOG xem bảy kỳ lễ là phần không thể thiếu của Tin Lành và được thiết lập cho phước lành cùng sự cứu rỗi.[^wms-gospel][^wms-zion]
+
+Công vụ 15 là phép thử quan trọng. Khi tranh luận liệu người ngoại có phải chịu cắt bì và giữ luật Môi-se để được cứu hay không, các sứ đồ khẳng định cả Do Thái lẫn ngoại bang được cứu bởi ân điển Đức Chúa Jê-sus Christ. Họ không trao cho người ngoại một lịch bảy lễ như cổng phổ quát để vào giao ước cứu rỗi.
+
+Điều đó không giải quyết mọi tranh luận về giá trị giáo dục hay tưởng niệm của các kỳ lễ. Nhưng nó chống lại việc dùng lịch lễ làm tiêu chuẩn phổ quát để xác định ai có hy vọng cứu rỗi.
+
+---
+
+## 9. “Si-ôn” bị đồng nhất với tổ chức
+
+### 9.1. Chuỗi lập luận
+
+Nguồn chính thức trình bày:
+
+* Si-ôn là nơi Đức Chúa Trời ngự và ban sự sống đời đời;
+* Ê-sai gọi Si-ôn là thành của các kỳ lễ;
+* Đức Chúa Jê-sus thiết lập các kỳ lễ giao ước mới;
+* nơi giữ các kỳ lễ ấy là Si-ôn thuộc linh;
+* Si-ôn thuộc linh là Hội Thánh của Đức Chúa Trời;
+* muốn nhận tha tội và sự sống phải đến Si-ôn.[^wms-zion]
+
+Bách khoa thuộc hệ sinh thái WMSCOG còn nói muốn nhận sự cứu rỗi tại Si-ôn phải tham dự các thực hành và kỳ lễ tại đó.[^wms-zion-encyclopedia]
+
+### 9.2. Vòng lặp tự xác nhận
+
+Lập luận vận hành như sau:
+
+1. Si-ôn là nơi có chân lý cứu rỗi.
+2. Chân lý được nhận diện bằng các kỳ lễ.
+3. WMSCOG giữ các kỳ lễ theo cách mình xác định.
+4. Vì vậy, WMSCOG là Si-ôn.
+5. Vì WMSCOG là Si-ôn, cách giữ của WMSCOG là đúng.
+6. Vì chỉ Si-ôn ban phước cứu rỗi, phải đến WMSCOG.
+
+Bước 3 và 4 xác nhận lẫn nhau. Danh tính Si-ôn không được chứng minh độc lập mà được suy từ bộ dấu hiệu do chính tổ chức lựa chọn.
+
+Một hội thánh khác có thể tuyên xưng Đức Chúa Jê-sus, rao sự chết và phục sinh, báp-têm, dự Tiệc Thánh, giữ Sa-bát và sống trong ăn năn, nhưng vẫn bị loại vì không nhận Ahn, Mẹ và lịch lễ WMSCOG.
+
+### 9.3. Hội thánh không phải chủ sở hữu sự cứu rỗi
+
+Tân Ước gọi hội thánh là thân thể Đấng Christ, đền thờ Đức Thánh Linh và cô dâu Chiên Con. Đấng Christ là đầu; hội thánh làm chứng và phục vụ sự cứu rỗi, không sản xuất hay sở hữu nó.
+
+Niềm tin SDA nói hội thánh là cộng đồng xưng Jê-sus là Chúa và Cứu Chúa; hội thánh phổ quát gồm mọi người thật sự tin Đấng Christ; thẩm quyền của hội thánh đến từ Ngài được mặc khải trong Kinh Thánh.[^sda-church]
+
+Ranh giới bị vượt qua khi một tổ chức nói mình là nơi duy nhất có đúng Đấng Cứu Thế, đúng Mẹ, đúng báp-têm, đúng Lễ Vượt Qua và đúng Si-ôn.
+
+---
+
+## 10. Tin Lành của các sứ đồ
+
+### 10.1. Giao ước mới trong Giê-rê-mi và Hê-bơ-rơ
+
+Giê-rê-mi 31:31–34 định nghĩa giao ước mới bằng việc luật được ghi vào lòng, Đức Chúa Trời nhận họ làm dân, họ biết Ngài và tội được tha. Đoạn văn không định nghĩa giao ước mới là lịch bảy kỳ lễ.
+
+Hê-bơ-rơ 8–10 trích lời hứa ấy rồi gắn nó với chức tế lễ và sự hy sinh đầy đủ của Đấng Christ. Kết luận là tín hữu có thể đến gần Đức Chúa Trời qua con đường mới và sống Ngài đã mở, không phải phải tìm một tổ chức phục hồi lịch lễ để huyết có hiệu lực.
+
+### 10.2. Công vụ
+
+Các bài giảng trong Công vụ tập trung vào:
+
+* Đức Chúa Jê-sus bị đóng đinh;
+* Đức Chúa Trời khiến Ngài sống lại;
+* Ngài là Chúa và Đấng Christ;
+* hãy ăn năn và tin;
+* sự tha tội được rao trong danh Ngài;
+* Đức Thánh Linh được ban cho người tin.
+
+Người tin được báp-têm và gia nhập cộng đồng, nhưng không có bài giảng nào trình bày chuỗi Ahn → Mẹ → báp-têm ba danh mới → Lễ Vượt Qua đúng lịch → bảy kỳ lễ → Si-ôn tổ chức.
+
+Công vụ 10 cho thấy Đức Chúa Trời ban Thánh Linh cho người ngoại trước khi hội thánh hoàn tất nghi thức. Công vụ 15 chống việc thêm điều kiện nghi lễ để xác định người ngoại có thật sự được cứu hay không.
+
+### 10.3. Rô-ma và Ga-la-ti
+
+Rô-ma 3–4 dạy tội nhân được xưng công bình nhưng không bởi ân điển qua đức tin. Áp-ra-ham được kể là công bình trước cắt bì; cắt bì là dấu của sự công bình đã nhận, không phải máy tạo ra địa vị ấy.
+
+Ga-la-ti cho thấy một hành động có thể tốt trong bối cảnh này nhưng phá hủy Tin Lành khi bị biến thành điều kiện cứu rỗi. Cắt bì tự nó không phải tội; vấn đề là dùng nó để xác định ai thật sự thuộc dân giao ước.
+
+Tương đồng cấu trúc:
+
+* tại Ga-la-ti: Đấng Christ + cắt bì như điều kiện được công nhận;
+* tại WMSCOG: Đấng Christ + Ahn + Mẹ + báp-têm đặc thù + Lễ Vượt Qua đặc thù + Si-ôn.
+
+Vấn đề không phải mọi hành động đều xấu. Sai trật nằm ở **vai trò cứu rỗi** được gán cho chúng.
+
+### 10.4. Ê-phê-sô 2 và Hê-bơ-rơ 7–10
+
+Ê-phê-sô 2:8–10 đặt trật tự rõ:
+
+* được cứu bởi ân điển qua đức tin;
+* không bởi việc làm;
+* người được cứu được dựng nên để làm việc lành.
+
+Việc lành là mục đích và kết quả của đời sống mới, không phải giá đầu vào.
+
+Hê-bơ-rơ nói Đấng Christ sống đời đời, có chức tế lễ không đổi và có thể cứu hoàn toàn người nhờ Ngài đến với Đức Chúa Trời. Nếu Ngài cứu **hoàn toàn**, Ngài không cần Ahn bổ sung danh cứu rỗi, Mẹ bổ sung nguồn sống hay tổ chức kích hoạt huyết Ngài.
+
+---
+
+## 11. Vâng phục không phải giá mua sự cứu rỗi
+
+WMSCOG có thể đáp: “Chúng tôi không nói nghi lễ mua sự cứu rỗi; chúng tôi nói người thật sự tin sẽ vâng lời.”
+
+Câu trả lời ấy chỉ đứng vững khi giữ ba phân biệt.
+
+### 11.1. Nền tảng và kết quả
+
+Nền tảng được chấp nhận là sự công bình của Đấng Christ. Kết quả là sự vâng phục do Đức Thánh Linh sinh ra.
+
+Nếu người tin được nói huyết Đấng Christ chưa tha tội cho họ cho tới khi dự Lễ Vượt Qua đúng lịch, nghi lễ đã chuyển từ kết quả sang phương tiện nhận hiệu lực cứu rỗi.
+
+### 11.2. Dấu hiệu và nguyên nhân
+
+Báp-têm, Sa-bát và Tiệc Thánh là các dấu hiệu giàu ý nghĩa. Nhưng dấu không phải nguyên nhân tối hậu. Giá trị của nghi lễ đến từ Đấng Christ mà nó chỉ về, không từ tổ chức quản lý nghi lễ.
+
+### 11.3. Lời Đức Chúa Trời và cách giải thích của tổ chức
+
+Nói “hãy vâng lời Đức Chúa Trời” không chứng minh mọi yêu cầu của tổ chức là lời Đức Chúa Trời. Phải hỏi:
+
+* Kinh Thánh có gọi Ahn là danh mới không?
+* Ga-la-ti 4 có biến Giê-ru-sa-lem thành phụ nữ hiện đại không?
+* Giăng 6 có giới hạn sự sống vào một lễ hằng năm không?
+* Ma-thi-ơ 28 có thay Đức Thánh Linh bằng Ahn không?
+* Ê-sai 33 có đồng nhất Si-ôn với WMSCOG không?
+
+Khi câu trả lời đến từ vòng lặp giải nghĩa tự xác nhận, sự phục tùng đã chuyển từ Đức Chúa Trời sang thẩm quyền diễn giải của tổ chức.
+
+---
+
+## 12. Các bài kiểm tra logic
+
+| Trường hợp                                                      | Hệ quả theo nguồn chính thức                                      | Vấn đề chưa được giải quyết                                                                         |
+| --------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Người tin Đức Chúa Jê-sus, ăn năn thật nhưng chưa nghe Ahn      | Người thời nay phải biết và tin danh Ahn                          | Nếu vẫn được cứu, Ahn không tuyệt đối cần; nếu không, cứu rỗi phụ thuộc tiếp cận tri thức bí truyền |
+| Người giữ Sa-bát nhưng không tin Mẹ                             | Không qua Mẹ thì không có sự sống/thừa kế                         | Điều quyết định không còn là điều răn mà là nhân vật do tổ chức công bố                             |
+| Người dự Tiệc Thánh ở hội thánh khác                            | Bánh và rượu sai ngày không có hiệu lực; WMSCOG giữ đúng duy nhất | Giá trị nghi lễ phụ thuộc lịch và thẩm quyền tổ chức                                                |
+| Người báp-têm rồi rời WMSCOG                                    | Hệ thống nhấn mạnh tiếp tục giữ giao ước mới và theo Cha/Mẹ       | Chưa thấy nguồn công khai đầy đủ về mọi trường hợp rời hội; không nên suy đoán                      |
+| Người bệnh bỏ lỡ Lễ Vượt Qua                                    | Có lễ lần hai một tháng sau                                       | Chưa rõ người bỏ lỡ cả hai hoặc chết trước lễ                                                       |
+| Người chết trước khi WMSCOG thành lập năm 1964                  | WMSCOG nói chân lý bị mất và được Ahn phục hồi                    | Nếu có cơ chế cứu ngoài tổ chức, độc quyền hiện tại phải được giới hạn                              |
+| Người sống giữa lúc Ahn qua đời và khi giáo lý Mẹ được phổ biến | Hệ thống hiện tại nói Mẹ thiết yếu                                | Nguồn công khai chưa cung cấp lộ trình trách nhiệm rõ ràng                                          |
+| Người không thể tiếp cận chi hội                                | Nghi lễ đúng và Si-ôn có vai trò cứu rỗi                          | Cứu rỗi có bị quyết định bởi địa lý hay không?                                                      |
+| Người mới tin ngay sau lễ rồi qua đời                           | Lễ được gọi là điều kiện có sự sống                               | Nếu không có ngoại lệ, lịch quyết định số phận; nếu có, tuyên bố tuyệt đối cần giới hạn             |
+
+Một hệ thống cứu rỗi phải giải quyết không chỉ trường hợp lý tưởng — người khỏe mạnh, sống gần chi hội, được nghe đúng lúc và có thể dự mọi lễ — mà cả người hấp hối, tù nhân, người khuyết tật, người ở vùng xa và người chưa từng tiếp cận tổ chức.
+
+Kẻ trộm trên thập tự giá không có thời gian nhận “danh mới”, Mẹ, báp-têm ba danh hay Lễ Vượt Qua. Trường hợp ấy không xóa mệnh lệnh báp-têm và môn đồ hóa, nhưng chứng minh ân điển Đấng Christ không bị cầm tù bởi khả năng tiếp cận nghi lễ.
+
+---
+
+## 13. Vì sao đây là “một Tin Lành khác”?
+
+Ga-la-ti 1:6–9 không phải nhãn chửi dành cho mọi nhóm khác biệt. Phao-lô nói đến một sứ điệp làm biến dạng ân điển bằng cách thay đổi điều kiện người ta thuộc về dân Đức Chúa Trời.
+
+WMSCOG thay đổi Tin Lành trên năm phương diện.
+
+### 13.1. Đối tượng đức tin
+
+Đức tin cứu rỗi không còn chỉ đặt nơi Đức Chúa Jê-sus đã chết và sống lại. Người tin phải nhận Ahn như Đấng Christ/danh mới và nhận Mẹ như nguồn sự sống.
+
+### 13.2. Nội dung Tin Lành
+
+Tin Lành từ công việc cứu chuộc của Đấng Christ được tái định nghĩa thành giao ước mới, lấy Lễ Vượt Qua làm cốt lõi và mở rộng thành hệ thống kỳ lễ.
+
+### 13.3. Phương tiện tiếp nhận
+
+Sự tha tội không được nhận chỉ bằng tin nơi thập tự giá. Báp-têm, Lễ Vượt Qua, rửa chân, Sa-bát và các lễ được đưa vào định nghĩa đức tin cứu rỗi.
+
+### 13.4. Vai trò của Đấng Christ
+
+Ahn cung cấp danh mới; Mẹ cung cấp sự sống; nghi lễ áp dụng huyết; Si-ôn cung cấp địa điểm cứu rỗi. Sự đầy đủ và chức trung bảo duy nhất của Đấng Christ bị chia nhỏ.
+
+### 13.5. Vai trò của tổ chức
+
+WMSCOG tự nhận là nơi duy nhất biết đúng Đấng Cứu Thế, nhận đúng Mẹ, làm đúng báp-têm, giữ đúng Lễ Vượt Qua và hiện thân đúng Si-ôn.
+
+Do đó, “một Tin Lành khác” không phải khẩu hiệu. Hệ thống đã thay đổi **ai phải được tin, điều gì cấu thành Tin Lành, ân điển được nhận thế nào, Đấng Christ có đủ hay không và hội thánh giữ vị trí gì**.
+
+---
+
+## 14. Kết luận
+
+Vấn đề của WMSCOG không phải họ kêu gọi vâng phục. Kinh Thánh kêu gọi vâng phục.
+
+Vấn đề không phải họ coi trọng báp-têm. Kinh Thánh truyền báp-têm.
+
+Vấn đề không phải họ tưởng niệm huyết Đấng Christ. Hội thánh phải rao sự chết của Chúa.
+
+Vấn đề cũng không phải riêng việc giữ ngày Sa-bát. Ngày Sa-bát không biến một hội thánh thành tà giáo, và phủ nhận luật pháp không phải cách bảo vệ ân điển.
+
+Vấn đề là WMSCOG đặt giữa tội nhân và Đấng Christ một chuỗi điều kiện mà chính tổ chức định nghĩa, thực hiện và xác nhận:
+
+* Ahn của hội;
+* Mẹ của hội;
+* báp-têm theo ba danh của hội;
+* Lễ Vượt Qua theo lịch và nghi thức của hội;
+* các kỳ lễ theo hệ thống của hội;
+* Si-ôn được đồng nhất với hội.
+
+Khi thiếu một mắt xích, người ta bị nói là chưa có sự sống, chưa nhận tha tội trọn vẹn, chưa ở trong Si-ôn hoặc chưa có đức tin cứu rỗi.
+
+Khi ấy, tổ chức không còn chỉ làm chứng về Đấng Trung Bảo. Nó đã trở thành một phần bắt buộc của sự trung bảo.
+
+Tin Lành của các sứ đồ mời tội nhân đến với Đấng Christ — Đấng đã chết, sống lại, đang sống đời đời và có thể cứu hoàn toàn. Sự vâng phục sẽ theo sau, nhưng hoa trái không phải giá mua gốc cây.
+
+Nghi lễ không tạo ra Đấng Trung Bảo.
+
+Hội thánh không sở hữu huyết Đấng Christ.
+
+Và không tổ chức nào có quyền tuyên bố sự hy sinh của Ngài không đến được với tội nhân cho tới khi tổ chức mở đúng cánh cửa.
+
+Câu hỏi cuối cùng là:
+
+> Đấng Christ đã hoàn tất điều gì trên thập tự giá?
+
+> Đức tin dẫn đến vâng phục, hay nghi lễ tạo ra quyền được cứu?
+
+> Hội thánh làm chứng về sự cứu rỗi, hay sở hữu sự cứu rỗi?
+
+Nếu không còn Ahn, Mẹ, báp-têm của hội, Lễ Vượt Qua của hội và Si-ôn của hội thì không còn hy vọng cứu rỗi, WMSCOG đã không còn chỉ rao giảng về con đường cứu rỗi.
+
+Nó đã tự đặt mình vào trong con đường đó.
+
+---
+
+## 15. Tóm tắt dành cho người đọc nhanh
+
+* WMSCOG không phủ nhận ân điển bằng lời nói, nhưng định nghĩa “đức tin thật” bằng một chuỗi nghi lễ được xem là cần thiết cho sự cứu rỗi.
+* Họ đồng nhất Tin Lành với giao ước mới, coi các kỳ lễ là phần không thể thiếu và đặt Lễ Vượt Qua ở vị trí cốt lõi.
+* Ahn Sahng-hong được tuyên bố là Đấng Christ tái lâm, danh mới và Đấng Cứu Thế mà người thời nay phải biết, tin và cầu nguyện.
+* “Đức Chúa Trời Mẹ” được trình bày như nguồn sự sống đời đời bắt buộc, bổ sung một trung gian bên cạnh Đấng Christ.
+* Báp-têm và Lễ Vượt Qua được gắn với tha tội, sự sống đời đời và tư cách dân Đức Chúa Trời theo công thức riêng của WMSCOG.
+* “Si-ôn” được định nghĩa là nơi giữ các kỳ lễ rồi đồng nhất với chính WMSCOG, biến tổ chức thành nơi duy nhất có các phương tiện cứu rỗi hợp lệ.
+* Quan điểm SDA giữ cân bằng: sự cứu rỗi hoàn toàn bởi ân điển; luật pháp và vâng phục là hoa trái, không phải công trạng hay cổng độc quyền.
+* Hệ thống trở thành “một Tin Lành khác” vì thay đổi đối tượng đức tin, nội dung Tin Lành, phương tiện nhận ân điển, sự đầy đủ của Đấng Christ và vai trò hội thánh.
+
+---
+
+## 16. Tài liệu tham khảo
+
+> **Ghi chú nguồn:** Ưu tiên nguồn chính thức WMSCOG và SDA. Truy cập ngày **05-08-2026**. Tên Jang/Zahng Gil-jah và vấn đề lịch sử liên quan được xử lý chi tiết trong [Phần 05](./mau-thuan-noi-tai.md); bài này tập trung vào cứu rỗi học hiện được công bố.
+
+[^wms-gospel]: Christ Ahnsahnghong Official Website, “What Is the Gospel of Jesus Christ? Its Importance, Content, and Core,” https://ahnsahnghong.com/en/church-of-god/what-is-the-gospel/
+
+[^wms-faith-action]: WATV, “I often hear people say, ‘We can be saved as long as we believe in God.’ Is that true?”, https://watv.org/bible_word/we-believe-in-god/
+
+[^wms-forgiveness]: WATV, “What is the difference between the forgiveness of sins and salvation?”, https://watv.org/bible_word/forgiveness-of-sins-and-salvation/
+
+[^wms-passover]: World Mission Society Church of God, “New Covenant Passover,” https://wmscog.com/new-covenant-passover/
+
+[^wms-passover-exact]: Christ Ahnsahnghong Official Website, “Why Is the Passover Important? Key Truth of Eternal Life and Salvation,” https://ahnsahnghong.com/en/teaching/what-is-the-significance-of-the-passover/
+
+[^wms-new-name]: Christ Ahnsahnghong Official Website, “Why Does the Church of God Pray in the Name of Ahnsahnghong?”, https://ahnsahnghong.com/en/faq/why-pray-in-the-name-of-ahnsahnghong/; “What Is the Holy Spirit?”, https://ahnsahnghong.com/en/christ/what-is-holy-spirit-in-bible/
+
+[^wms-mother]: World Mission Society Church of God, “God the Mother,” https://wmscog.com/god-the-mother/; “Heavenly Mother,” https://wmscog.com/god-the-mother/heavenly-mother/
+
+[^wms-mother-heir]: WATV, “The Firstborn of Heaven,” https://watv.org/bible_word/the-firstborn/
+
+[^wms-baptism]: Christ Ahnsahnghong Official Website, “Meaning and Importance of Baptism,” https://ahnsahnghong.com/en/teaching/baptism/
+
+[^wms-sabbath]: WATV, “The Sabbath and God’s Salvation,” https://watv.org/bible_word/the-sabbath/
+
+[^wms-zion]: WATV, “The Church of God is called Zion. Is there a reason?”, https://watv.org/bible_word/called-zion/
+
+[^wms-zion-encyclopedia]: Church of God Knowledge Encyclopedia, “Salvation and Zion,” https://churchofgod.wiki/en/Salvation_and_Zion — website thuộc hệ sinh thái chính thức WMSCOG, không phải bách khoa độc lập.
+
+[^wms-finished]: WATV, “Jesus definitely said on the cross, ‘It is finished.’ If then, we don’t need to keep the regulations such as the Sabbath and the Passover any longer, do we?”, https://watv.org/bible_word/keep-the-sabbath-and-the-passover/
+
+[^wms-second-passover]: WATV Media Cast, “The Second Passover,” https://watvmedia4.watv.org/en_GB/media/the-second-passover
+
+[^sda-salvation]: General Conference of Seventh-day Adventists, “Fundamental Beliefs 9–10: The Life, Death and Resurrection of Christ; The Experience of Salvation,” https://gc.adventist.org/beliefs/
+
+[^sda-church]: General Conference of Seventh-day Adventists, “Fundamental Beliefs 12–13: The Church; The Remnant and Its Mission,” https://gc.adventist.org/beliefs/
+
+[^sda-baptism]: General Conference of Seventh-day Adventists, “Fundamental Beliefs 15–16: Baptism; The Lord’s Supper,” https://gc.adventist.org/beliefs/
+
+[^sda-law]: General Conference of Seventh-day Adventists, “Fundamental Beliefs 19–20: The Law of God; The Sabbath,” https://gc.adventist.org/beliefs/
+
+[^sda-sanctuary]: General Conference of Seventh-day Adventists, “Fundamental Belief 24: Christ’s Ministry in the Heavenly Sanctuary,” https://gc.adventist.org/beliefs/
