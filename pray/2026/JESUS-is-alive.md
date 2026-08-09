@@ -8,17 +8,21 @@
 
 ---
 
-Today is the first day of our Ten Days of Prayer. We could begin these days with many things: a list of needs, a desire to be used by God, or a determination to pray and serve more faithfully.
+You know Paul: his journeys, churches, letters, and suffering for Christ. Two thousand years later, his ministry still builds us up.
 
-But the book of Acts begins somewhere else. Luke begins with one truth: **Jesus Christ has risen.**
+But one part is often missed. In Jerusalem, Paul preached and debated; opposition erupted, people sought to kill him, and believers sent him to Tarsus. Luke then records that the church enjoyed peace.
 
-After His death, Jesus appeared to His disciples over a period of forty days and gave them many proofs that He was alive. During that time, He continued teaching them about the kingdom of God.
+Saul then almost disappears from Acts. More than a decade of his life is compressed into a few verses.
 
-That matters. Jesus did not rise, appear briefly, give His disciples an assignment, and then disappear. He spent time with them. He spoke with them, taught them, and prepared them. Before working through them, He continued working in them.
+Surprisingly, that quiet season may have been the most important in shaping Paul—and us through his ministry.
 
-This is the foundation of our hope today: Jesus is not merely a figure from history. He is our living Savior. He is still present, still speaking, still meeting people, and still transforming lives.
+To understand that silence, we must return to Saul’s question on the Damascus road: “Who are You, Lord?”
 
-And in the book of Acts, perhaps no story shows this more clearly than the story of Paul.
+The Lord answered: **“I am Jesus.”**
+
+Jesus—just a name. Yet before that name, all Saul’s knowledge, zeal, and noise had to fall silent so that he could truly know: Jesus had risen, He was alive, and He was speaking.
+
+Acts 1:1–3 establishes this truth as the foundation: the risen Christ appeared over forty days, continuing to teach and prepare His disciples. Paul’s story shows that He is still doing the same today.
 
 ---
 
